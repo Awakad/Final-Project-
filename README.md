@@ -15,4 +15,4 @@ Project topic is Predicting Movie Revenues
 
 In a world, where movies made an estimated of over $41.7 billion annually, the film industry is more popular than ever. But what movies make the most money and what are the factor responsible for this ? How much does a director matter? Or the budget? Or the actor?
 
-## Data Source:[kaggle](https://www.kaggle.com/c/tmdb-box-office-prediction/data?select=sample_submission.csv) [IMDB]
+## Data Source: [Box Office Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction/data?select=sample_submission.csv) [IMDB database](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
