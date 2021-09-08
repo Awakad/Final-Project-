@@ -1,6 +1,6 @@
 # Final-Project
 
-# The team 
+## The Team 
 
 - Deng T.Deng
 - Callistus Ikeata
