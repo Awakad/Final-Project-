@@ -1,0 +1,55 @@
+movie_info
+-
+movie_id varchar pk
+cast_set_num varchar pk
+movie_title varchar
+duration double
+director_name varchar
+color varchar
+genres varchar
+plot_keywords varchar
+movie_language varchar
+country varchar
+content_rating double
+budget double
+title_year varchar
+aspect_ratio double
+
+
+cast_info
+-
+cast_set_num varchar pk fk  - movie_info.movie_id
+movie_title varchar
+actor_1_name varchar
+actor_2_name varchar
+actor_3_name varchar
+facenumber_in_poster int
+
+rating
+-
+movie_id pk fk - movie_info.movie_id
+movie_imdb_link varchar
+movie_title varchar
+director_name varchar
+num_voted_users int
+num_critic_for_reviews int
+imdb_score double
+
+
+cast_social_media
+-
+cast_set_num varchar pk fk - cast_info.cast_set_num
+director_name varchar
+director_facebook_likes int
+actor_1_name varchar
+actor_1_facebook_likes int
+actor_2_name varchar
+actor_2_facebook_likes int
+actor_3_name varchar
+actor_3_facebook_likes int
+cast_total_facebook_likes int
+
+movie_social_media
+-
+movie_id varchar pk fk - movie_info.movie_id
+movie_facebook_likes int
