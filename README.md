@@ -20,7 +20,7 @@ In a world, where movies made an estimated of over $41.7 billion in 2018 , the f
 
 ## Machine Learning Model
 
-The dataset is available in a csv file. We will develop a Regression model for predicting movie revenue for 5000 movie dataset.
+The dataset is available in a csv file. We will develop a Random Forest Neural Network model for predicting movie revenue for 5000 movie dataset.
 
 We will performed data analysis, feature extraction, cleaning, preprocessing and train the model.
 
@@ -34,7 +34,7 @@ Rojin - handled the ERD and database mockup for the dataset. In addition, Rojin 
 
 Deng - handled the project repository and maintained it for the whole week. 
 
-Callistus - handled data cleaning and machine learning portion, we will run a regression model. The dataset will first be preprocessed to be used in our models.
+Callistus - handled data cleaning and machine learning portion, we will run a Random Forest Neural Network model. The dataset will first be preprocessed to be used in our models.
 
 Carter - Contributed in finding a situatable project topic.
 
