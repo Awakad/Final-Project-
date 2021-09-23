@@ -34,7 +34,7 @@ Rojin - handled the ERD and database mockup for the dataset. In addition, Rojin 
 
 Deng - handled the project repository and maintained it for the whole week. 
 
-Callistus - handled data cleaning and machine learning portion, we will run a regression model. The dataset will first be preprocessed to be used in our models.
+Callistus - handled data cleaning and machine learning portion, we will run a Random Forest Neural Network model. The dataset will first be preprocessed to be used in our models.
 
 Carter - Contributed in finding a situatable project topic.
 
