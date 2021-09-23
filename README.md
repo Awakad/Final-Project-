@@ -20,7 +20,7 @@ In a world, where movies made an estimated of over $41.7 billion in 2018 , the f
 
 ## Machine Learning Model
 
-The dataset is available in a csv file. We will develop a Random Forest Neural Network model for predicting movie revenue for 5000 movie dataset.
+The dataset is available in a csv file. We will develop a Random Forest and Deep Neural Network model for predicting movie revenue for 5000 movie dataset.
 
 We will performed data analysis, feature extraction, cleaning, preprocessing and train the model.
 
