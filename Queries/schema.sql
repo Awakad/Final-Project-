@@ -18,6 +18,15 @@ CREATE TABLE movie_info (
 	UNIQUE (cast_set_num)
 );
 
+CREATE TABLE boxoffice(
+	movie_id VARCHAR(5) NOT NULL,
+	budget BIGINT,
+	gross BIGINT,
+	FOREIGN KEY(movie_id) REFERENCES movie_info(movie_id)
+);
+
+ALTER TABLE movie_info
+DROP COLUMN budget;
 
 CREATE TABLE rating(
 	movie_id VARCHAR(5) NOT NULL,

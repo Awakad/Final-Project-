@@ -1,0 +1,21 @@
+movie_id,budget,gross,movie_title,duration,director_name,genres,country,content_rating,title_year,cast_set_num,actor_1_name
+M001,237000000,760505847,Avatar¬†,178,James Cameron,Action|Adventure|Fantasy|Sci-Fi,USA,PG-13,2009,CS100,CCH Pounder
+M027,200000000,658672302,Titanic¬†,194,James Cameron,Drama|Romance,USA,PG-13,1997,CS126,Leonardo DiCaprio
+M030,150000000,652177271,Jurassic World¬†,124,Colin Trevorrow,Action|Adventure|Sci-Fi|Thriller,USA,PG-13,2015,CS129,Bryce Dallas Howard
+M795,220000000,623279547,The Avengers¬†,173,Joss Whedon,Action|Adventure|Sci-Fi,USA,PG-13,2012,CS894,Chris Hemsworth
+M018,220000000,623279547,The Avengers¬†,173,Joss Whedon,Action|Adventure|Sci-Fi,USA,PG-13,2012,CS117,Chris Hemsworth
+M067,185000000,533316061,The Dark Knight¬†,152,Christopher Nolan,Action|Crime|Drama|Thriller,USA,PG-13,2008,CS166,Christian Bale
+M241,115000000,474544677,Star Wars: Episode I - The Phantom Menace¬†,136,George Lucas,Action|Adventure|Fantasy|Sci-Fi,USA,PG,1999,CS340,Natalie Portman
+M3025,11000000,460935665,Star Wars: Episode IV - A New Hope¬†,125,George Lucas,Action|Adventure|Fantasy|Sci-Fi,USA,PG,1977,CS3124,Harrison Ford
+M009,250000000,458991599,Avengers: Age of Ultron¬†,141,Joss Whedon,Action|Adventure|Sci-Fi,USA,PG-13,2015,CS108,Chris Hemsworth
+M004,250000000,448130642,The Dark Knight Rises¬†,164,Christopher Nolan,Action|Thriller,USA,PG-13,2012,CS103,Tom Hardy
+M583,150000000,436471036,Shrek 2¬†,93,Andrew Adamson,Adventure|Animation|Comedy|Family|Fantasy|Romance,USA,PG,2004,CS682,Rupert Everett
+M3081,10500000,434949459,E.T. the Extra-Terrestrial¬†,120,Steven Spielberg,Family|Sci-Fi,USA,PG,1982,CS3180,Henry Thomas
+M187,130000000,424645577,The Hunger Games: Catching Fire¬†,146,Francis Lawrence,Adventure|Sci-Fi|Thriller,USA,PG-13,2013,CS286,Jennifer Lawrence
+M014,225000000,423032628,Pirates of the Caribbean: Dead Man's Chest¬†,151,Gore Verbinski,Action|Adventure|Fantasy,USA,PG-13,2006,CS113,Johnny Depp
+M510,45000000,422783777,The Lion King¬†,73,Roger Allers,Adventure|Animation|Drama|Family|Musical,USA,G,1994,CS609,Matthew Broderick
+M044,200000000,414984497,Toy Story 3¬†,103,Lee Unkrich,Adventure|Animation|Comedy|Family|Fantasy,USA,G,2010,CS143,Tom Hanks
+M033,200000000,408992272,Iron Man 3¬†,195,Shane Black,Action|Adventure|Sci-Fi,USA,PG-13,2013,CS132,Robert Downey Jr.
+M440,78000000,407999255,The Hunger Games¬†,142,Gary Ross,Adventure|Drama|Sci-Fi|Thriller,USA,PG-13,2012,CS539,Jennifer Lawrence
+M028,250000000,407197282,Captain America: Civil War¬†,147,Anthony Russo,Action|Adventure|Sci-Fi,USA,PG-13,2016,CS127,Robert Downey Jr.
+M162,139000000,403706375,Spider-Man¬†,121,Sam Raimi,Action|Adventure|Fantasy|Romance,USA,PG-13,2002,CS261,J.K. Simmons

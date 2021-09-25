@@ -1,0 +1,381 @@
+movie_id,movie_title,director_name,content_rating,title_year,budget,gross,imdb_score
+M001,Avatar¬†,James Cameron,PG-13,2009,237000000,760505847,7.9
+M002,Pirates of the Caribbean: At World's End¬†,Gore Verbinski,PG-13,2007,300000000,309404152,7.1
+M004,The Dark Knight Rises¬†,Christopher Nolan,PG-13,2012,250000000,448130642,8.5
+M006,John Carter¬†,Andrew Stanton,PG-13,2012,263700000,73058679,6.6
+M007,Spider-Man 3¬†,Sam Raimi,PG-13,2007,258000000,336530303,6.2
+M009,Avengers: Age of Ultron¬†,Joss Whedon,PG-13,2015,250000000,458991599,7.5
+M011,Batman v Superman: Dawn of Justice¬†,Zack Snyder,PG-13,2016,250000000,330249062,6.9
+M015,The Lone Ranger¬†,Gore Verbinski,PG-13,2013,215000000,89289910,6.5
+M016,Man of Steel¬†,Zack Snyder,PG-13,2013,225000000,291021565,7.2
+M017,The Chronicles of Narnia: Prince Caspian¬†,Andrew Adamson,PG,2008,225000000,141614023,6.6
+M018,The Avengers¬†,Joss Whedon,PG-13,2012,220000000,623279547,8.1
+M019,Pirates of the Caribbean: On Stranger Tides¬†,Rob Marshall,PG-13,2011,250000000,241063875,6.7
+M020,Men in Black 3¬†,Barry Sonnenfeld,PG-13,2012,225000000,179020854,6.8
+M022,The Amazing Spider-Man¬†,Marc Webb,PG-13,2012,230000000,262030663,7
+M023,Robin Hood¬†,Ridley Scott,PG-13,2010,200000000,105219735,6.7
+M028,Captain America: Civil War¬†,Anthony Russo,PG-13,2016,250000000,407197282,8.2
+M029,Battleship¬†,Peter Berg,PG-13,2012,209000000,65173160,5.9
+M030,Jurassic World¬†,Colin Trevorrow,PG-13,2015,150000000,652177271,7
+M033,Iron Man 3¬†,Shane Black,PG-13,2013,200000000,408992272,7.2
+M037,Transformers: Revenge of the Fallen¬†,Michael Bay,PG-13,2009,200000000,402076689,6
+M038,Transformers: Age of Extinction¬†,Michael Bay,PG-13,2014,210000000,245428137,5.7
+M040,The Amazing Spider-Man 2¬†,Marc Webb,PG-13,2014,200000000,202853933,6.7
+M041,TRON: Legacy¬†,Joseph Kosinski,PG,2010,170000000,172051787,6.8
+M043,Green Lantern¬†,Martin Campbell,PG-13,2011,200000000,116593191,5.6
+M045,Terminator Salvation¬†,McG,PG-13,2009,200000000,125320003,6.6
+M046,Furious 7¬†,James Wan,PG-13,2015,190000000,350034110,7.2
+M047,World War Z¬†,Marc Forster,PG-13,2013,190000000,202351611,7
+M048,X-Men: Days of Future Past¬†,Bryan Singer,PG-13,2014,200000000,233914986,8
+M049,Star Trek Into Darkness¬†,J.J. Abrams,PG-13,2013,190000000,228756232,7.8
+M052,Prince of Persia: The Sands of Time¬†,Mike Newell,PG-13,2010,200000000,90755643,6.6
+M053,Pacific Rim¬†,Guillermo del Toro,PG-13,2013,190000000,101785482,7
+M054,Transformers: Dark of the Moon¬†,Michael Bay,PG-13,2011,195000000,352358779,6.3
+M055,Indiana Jones and the Kingdom of the Crystal Skull¬†,Steven Spielberg,PG-13,2008,185000000,317011114,6.2
+M058,Star Trek Beyond¬†,Justin Lin,PG-13,2016,185000000,130468626,7.5
+M060,Rush Hour 3¬†,Brett Ratner,PG-13,2007,140000000,140080850,6.2
+M061,2012¬†,Roland Emmerich,PG-13,2009,200000000,166112167,5.8
+M063,Jupiter Ascending¬†,Lana Wachowski,PG-13,2015,176000000,47375327,5.4
+M064,The Legend of Tarzan¬†,David Yates,PG-13,2016,180000000,124051759,6.6
+M066,X-Men: Apocalypse¬†,Bryan Singer,PG-13,2016,178000000,154985087,7.3
+M067,The Dark Knight¬†,Christopher Nolan,PG-13,2008,185000000,533316061,9
+M069,Monsters vs. Aliens¬†,Rob Letterman,PG,2009,175000000,198332128,6.5
+M070,Iron Man¬†,Jon Favreau,PG-13,2008,140000000,318298180,7.9
+M073,The Mummy: Tomb of the Dragon Emperor¬†,Rob Cohen,PG-13,2008,145000000,102176165,5.2
+M074,Suicide Squad¬†,David Ayer,PG-13,2016,175000000,161087183,6.9
+M076,Edge of Tomorrow¬†,Doug Liman,PG-13,2014,178000000,100189501,7.9
+M078,G.I. Joe: The Rise of Cobra¬†,Stephen Sommers,PG-13,2009,175000000,150167630,5.8
+M081,Iron Man 2¬†,Jon Favreau,PG-13,2010,200000000,312057433,7
+M082,Snow White and the Huntsman¬†,Rupert Sanders,PG-13,2012,170000000,155111815,6.1
+M083,Maleficent¬†,Robert Stromberg,PG,2014,180000000,241407328,7
+M084,Dawn of the Planet of the Apes¬†,Matt Reeves,PG-13,2014,170000000,208543795,7.6
+M086,47 Ronin¬†,Carl Rinsch,PG-13,2013,175000000,38297305,6.3
+M087,Captain America: The Winter Soldier¬†,Anthony Russo,PG-13,2014,170000000,259746958,7.8
+M089,Tomorrowland¬†,Brad Bird,PG,2015,190000000,93417865,6.5
+M090,Big Hero 6¬†,Don Hall,PG,2014,165000000,222487711,7.9
+M093,Independence Day: Resurgence¬†,Roland Emmerich,PG-13,2016,165000000,102315545,5.5
+M096,Guardians of the Galaxy¬†,James Gunn,PG-13,2014,170000000,333130696,8.1
+M098,Inception¬†,Christopher Nolan,PG-13,2010,160000000,292568851,8.8
+M103,X-Men: First Class¬†,Matthew Vaughn,PG-13,2011,160000000,146405371,7.8
+M105,The Sorcerer's Apprentice¬†,Jon Turteltaub,PG,2010,150000000,63143812,6.1
+M109,Warcraft¬†,Duncan Jones,PG-13,2016,160000000,46978995,7.3
+M110,Terminator Genisys¬†,Alan Taylor,PG-13,2015,155000000,89732035,6.6
+M113,Transformers¬†,Michael Bay,PG-13,2007,150000000,318759914,7.1
+M117,Hancock¬†,Peter Berg,PG-13,2008,150000000,227946274,6.4
+M122,Madagascar: Escape 2 Africa¬†,Eric Darnell,PG,2008,150000000,179982968,6.7
+M124,X-Men Origins: Wolverine¬†,Gavin Hood,PG-13,2009,150000000,179883016,6.7
+M128,Thor: The Dark World¬†,Alan Taylor,PG-13,2013,170000000,206360018,7.1
+M131,Thor¬†,Kenneth Branagh,PG-13,2011,150000000,181015141,7
+M133,G-Force¬†,Hoyt Yeatman,PG,2009,150000000,119420252,5.1
+M134,Wrath of the Titans¬†,Jonathan Liebesman,PG-13,2012,150000000,83640426,5.8
+M138,The Legend of Tarzan¬†,David Yates,PG-13,2016,180000000,124051759,6.6
+M140,Kung Fu Panda 2¬†,Jennifer Yuh Nelson,PG,2011,150000000,165230261,7.3
+M141,The Last Airbender¬†,M. Night Shyamalan,PG,2010,150000000,131564731,4.2
+M143,White House Down¬†,Roland Emmerich,PG-13,2013,150000000,73103784,6.4
+M144,Mars Needs Moms¬†,Simon Wells,PG,2011,150000000,21379315,5.4
+M151,Ghostbusters¬†,Paul Feig,PG-13,2016,144000000,118099659,5.5
+M154,Beowulf¬†,Robert Zemeckis,PG-13,2007,150000000,82161969,6.3
+M155,Kung Fu Panda 3¬†,Alessandro Carloni,PG,2016,145000000,143523463,7.2
+M156,Mission: Impossible - Ghost Protocol¬†,Brad Bird,PG-13,2011,145000000,209364921,7.4
+M161,Star Trek¬†,J.J. Abrams,PG-13,2009,150000000,257704099,8
+M163,How to Train Your Dragon 2¬†,Dean DeBlois,PG,2014,145000000,176997107,7.9
+M164,Gods of Egypt¬†,Alex Proyas,PG-13,2016,140000000,31141074,5.5
+M166,Watchmen¬†,Zack Snyder,R,2009,130000000,107503316,7.7
+M169,G.I. Joe: Retaliation¬†,Jon M. Chu,PG-13,2013,130000000,122512052,5.8
+M172,Captain America: The First Avenger¬†,Joe Johnston,PG-13,2011,140000000,176636816,6.9
+M177,The Incredible Hulk¬†,Louis Leterrier,PG-13,2008,150000000,134518390,6.8
+M184,The Bourne Ultimatum¬†,Paul Greengrass,PG-13,2007,110000000,227137090,8.1
+M185,Kung Fu Panda¬†,Mark Osborne,PG,2008,130000000,215395021,7.6
+M186,Ant-Man¬†,Peyton Reed,PG-13,2015,130000000,180191634,7.4
+M192,Puss in Boots¬†,Chris Miller,PG,2011,130000000,149234747,6.7
+M193,Salt¬†,Phillip Noyce,PG-13,2010,110000000,118311368,6.4
+M194,Noah¬†,Darren Aronofsky,PG-13,2014,125000000,101160529,5.8
+M195,The Adventures of Tintin¬†,Steven Spielberg,PG,2011,135000000,77564037,7.4
+M198,After Earth¬†,M. Night Shyamalan,PG-13,2013,130000000,60522097,4.9
+M202,Megamind¬†,Tom McGrath,PG,2010,130000000,148337537,7.3
+M204,R.I.P.D.¬†,Robert Schwentke,PG-13,2013,130000000,33592415,5.6
+M212,Fast Five¬†,Justin Lin,PG-13,2011,125000000,209805005,7.3
+M213,Sherlock Holmes: A Game of Shadows¬†,Guy Ritchie,PG-13,2011,125000000,186830669,7.5
+M214,Clash of the Titans¬†,Louis Leterrier,PG-13,2010,125000000,163192114,5.8
+M217,The Bourne Legacy¬†,Tony Gilroy,PG-13,2012,125000000,113165635,6.7
+M223,Fantastic 4: Rise of the Silver Surfer¬†,Tim Story,PG,2007,130000000,131920333,5.6
+M225,Ghost Rider¬†,Mark Steven Johnson,PG-13,2007,110000000,115802596,5.2
+M230,Elysium¬†,Neill Blomkamp,R,2013,115000000,93050117,6.6
+M232,RoboCop¬†,Jos√© Padilha,PG-13,2014,100000000,58607007,6.2
+M233,Speed Racer¬†,Lana Wachowski,PG,2008,120000000,43929341,6.1
+M235,Knight and Day¬†,James Mangold,PG-13,2010,117000000,76418654,6.3
+M236,Oblivion¬†,Joseph Kosinski,PG-13,2013,120000000,89021735,7
+M240,The Wolverine¬†,James Mangold,PG-13,2013,120000000,132550960,6.7
+M245,The Huntsman: Winter's War¬†,Cedric Nicolas-Troyan,PG-13,2016,115000000,47952020,6.1
+M246,Teenage Mutant Ninja Turtles¬†,Jonathan Liebesman,PG-13,2014,125000000,190871240,5.9
+M249,Teenage Mutant Ninja Turtles: Out of the Shadows¬†,Dave Green,PG-13,2016,135000000,81638674,6.3
+M250,Fantastic Four¬†,Josh Trank,PG-13,2015,120000000,56114221,4.3
+M252,San Andreas¬†,Brad Peyton,PG-13,2015,110000000,155181732,6.1
+M260,The Green Hornet¬†,Michel Gondry,PG-13,2011,120000000,98780042,5.8
+M262,300: Rise of an Empire¬†,Noam Murro,R,2014,110000000,106369117,6.2
+M265,Allegiant¬†,Robert Schwentke,PG-13,2016,110000000,66002193,5.8
+M266,Real Steel¬†,Shawn Levy,PG-13,2011,110000000,85463309,7.1
+M269,Ender's Game¬†,Gavin Hood,PG-13,2013,110000000,61656849,6.7
+M270,Live Free or Die Hard¬†,Len Wiseman,PG-13,2007,110000000,134520804,7.2
+M293,The Taking of Pelham 1 2 3¬†,Tony Scott,R,2009,100000000,65452312,6.4
+M295,The Other Guys¬†,Adam McKay,PG-13,2010,100000000,119219978,6.7
+M300,The Expendables 2¬†,Simon West,R,2012,92000000,85017401,6.7
+M306,The Tourist¬†,Florian Henckel von Donnersmarck,PG-13,2010,100000000,67631157,6
+M313,Legend of the Guardians: The Owls of Ga'Hoole¬†,Zack Snyder,PG,2010,80000000,55673333,7
+M315,Hercules¬†,Brett Ratner,PG-13,2014,100000000,72660029,6
+M318,The Expendables 3¬†,Patrick Hughes,PG-13,2014,90000000,39292022,6.1
+M319,Point Break¬†,Ericson Core,PG-13,2015,105000000,28772222,5.3
+M321,In the Heart of the Sea¬†,Ron Howard,PG-13,2015,100000000,24985612,7
+M342,Seventh Son¬†,Sergey Bodrov,PG-13,2014,95000000,17176900,5.5
+M346,Rise of the Planet of the Apes¬†,Rupert Wyatt,PG-13,2011,93000000,176740650,7.6
+M348,A Good Day to Die Hard¬†,John Moore,R,2013,92000000,67344392,5.3
+M355,Unstoppable¬†,Tony Scott,PG-13,2010,100000000,81557479,6.8
+M359,Ice Age: Dawn of the Dinosaurs¬†,Carlos Saldanha,PG,2009,90000000,196573705,7
+M364,Tropic Thunder¬†,Ben Stiller,R,2008,92000000,110416702,7
+M367,Sherlock Holmes¬†,Guy Ritchie,PG-13,2009,90000000,209019489,7.6
+M372,You Don't Mess with the Zohan¬†,Dennis Dugan,PG-13,2008,90000000,100018837,5.5
+M373,Pixels¬†,Chris Columbus,PG-13,2015,88000000,78747585,5.6
+M381,Now You See Me 2¬†,Jon M. Chu,PG-13,2016,90000000,64685359,6.9
+M390,Fantastic Four¬†,Josh Trank,PG-13,2015,120000000,56114221,4.3
+M406,Safe House¬†,Daniel Espinosa,R,2012,85000000,126149655,6.8
+M408,Tower Heist¬†,Brett Ratner,PG-13,2011,75000000,78009155,6.2
+M425,Scott Pilgrim vs. the World¬†,Edgar Wright,PG-13,2010,60000000,31494270,7.5
+M432,Cats & Dogs: The Revenge of Kitty Galore¬†,Brad Peyton,PG,2010,85000000,43575716,4.3
+M433,Jumper¬†,Doug Liman,PG-13,2008,85000000,80170146,6.1
+M434,Hellboy II: The Golden Army¬†,Guillermo del Toro,PG-13,2008,85000000,75754670,7
+M438,The Expendables¬†,Sylvester Stallone,R,2010,80000000,102981571,6.5
+M447,RED 2¬†,Dean Parisot,PG-13,2013,84000000,53215979,6.7
+M451,Get Smart¬†,Peter Segal,PG-13,2008,80000000,130313314,6.5
+M462,Eagle Eye¬†,D.J. Caruso,PG-13,2008,80000000,101111837,6.6
+M464,The Book of Eli¬†,Albert Hughes,R,2010,80000000,94822707,6.9
+M471,Fury¬†,David Ayer,R,2014,68000000,85707116,7.6
+M492,Surrogates¬†,Jonathan Mostow,PG-13,2009,80000000,38542418,6.3
+M502,The Last Witch Hunter¬†,Breck Eisner,PG-13,2015,90000000,27356090,6
+M511,Journey 2: The Mysterious Island¬†,Brad Peyton,PG,2012,79000000,103812241,5.8
+M528,Wanted¬†,Timur Bekmambetov,R,2008,75000000,134568845,6.7
+M548,Killers¬†,Robert Luketic,PG-13,2010,75000000,47000485,5.4
+M549,The Man from U.N.C.L.E.¬†,Guy Ritchie,PG-13,2015,75000000,45434443,7.3
+M555,Immortals¬†,Tarsem Singh,R,2011,75000000,83503161,6.1
+M564,Minions¬†,Kyle Balda,PG,2015,74000000,336029560,6.4
+M565,Sucker Punch¬†,Zack Snyder,PG-13,2011,82000000,36381716,6.1
+M568,The Angry Birds Movie¬†,Clay Kaytis,PG,2016,73000000,107225164,6.3
+M569,Fool's Gold¬†,Andy Tennant,PG-13,2008,70000000,70224196,5.6
+M571,The Kingdom¬†,Peter Berg,R,2007,70000000,47456450,7.1
+M591,Hercules¬†,Brett Ratner,PG-13,2014,100000000,72660029,6
+M600,Olympus Has Fallen¬†,Antoine Fuqua,R,2013,70000000,98895417,6.5
+M602,Battle Los Angeles¬†,Jonathan Liebesman,PG-13,2011,70000000,83552429,5.8
+M609,Dracula Untold¬†,Gary Shore,PG-13,2014,70000000,55942830,6.3
+M617,Underworld: Awakening¬†,M√•ns M√•rlind,R,2012,70000000,62321039,6.4
+M626,Blackhat¬†,Michael Mann,R,2015,70000000,7097125,5.4
+M629,Escape Plan¬†,Mikael H√•fstr√∂m,R,2013,50000000,25121291,6.7
+M630,The Legend of Hercules¬†,Renny Harlin,PG-13,2014,70000000,18821279,4.2
+M641,The Finest Hours¬†,Craig Gillespie,PG-13,2016,,27550735,6.8
+M642,Body of Lies¬†,Ridley Scott,R,2008,70000000,39380442,7.1
+M644,Abraham Lincoln: Vampire Hunter¬†,Timur Bekmambetov,R,2012,69000000,37516013,5.9
+M650,Need for Speed¬†,Scott Waugh,PG-13,2014,66000000,43568507,6.5
+M675,This Means War¬†,McG,PG-13,2012,65000000,54758461,6.3
+M680,Death Race¬†,Paul W.S. Anderson,R,2008,45000000,36064910,6.4
+M692,Sin City: A Dame to Kill For¬†,Frank Miller,R,2014,65000000,13750556,6.5
+M714,Wild Hogs¬†,Walt Becker,PG-13,2007,,168213584,5.9
+M723,2 Guns¬†,Baltasar Korm√°kur,R,2013,61000000,75573300,6.7
+M731,The Scorch Trials¬†,Wes Ball,PG-13,2015,61000000,81687587,6.4
+M734,RED¬†,Robert Schwentke,PG-13,2010,58000000,90356857,7.1
+M740,Jack Reacher¬†,Christopher McQuarrie,PG-13,2012,60000000,80033643,7
+M761,Jack Ryan: Shadow Recruit¬†,Kenneth Branagh,PG-13,2014,60000000,50549107,6.2
+M765,Shooter¬†,Antoine Fuqua,R,2007,61000000,46975183,7.2
+M771,Gangster Squad¬†,Ruben Fleischer,R,2013,60000000,45996718,6.7
+M785,Righteous Kill¬†,Jon Avnet,R,2008,60000000,40076438,6
+M792,Priest¬†,Scott Stewart,PG-13,2011,60000000,29136626,5.7
+M795,The Avengers¬†,Joss Whedon,PG-13,2012,220000000,623279547,8.1
+M807,The Spirit¬†,Frank Miller,PG-13,2008,60000000,19781879,4.8
+M813,Deadpool¬†,Tim Miller,R,2016,58000000,363024263,8.1
+M815,American Sniper¬†,Clint Eastwood,R,2014,58800000,350123553,7.3
+M826,Red Tails¬†,Anthony Hemingway,PG-13,2012,58000000,49875589,5.9
+M832,Ghost Rider: Spirit of Vengeance¬†,Mark Neveldine,PG-13,2011,57000000,51774002,4.3
+M849,The Equalizer¬†,Antoine Fuqua,R,2014,55000000,101530738,7.2
+M865,The Forbidden Kingdom¬†,Rob Minkoff,PG-13,2008,55000000,25040293,6.6
+M872,The Watch¬†,Akiva Schaffer,R,2012,68000000,34350553,5.7
+M895,Bullet to the Head¬†,Walter Hill,R,2012,55000000,9483821,5.7
+M909,Grindhouse¬†,Robert Rodriguez,R,2007,53000000,25031037,7.6
+M940,22 Jump Street¬†,Phil Lord,R,2014,50000000,191616238,7.1
+M943,Central Intelligence¬†,Rawson Marshall Thurber,PG-13,2016,50000000,126088877,6.6
+M960,Race to Witch Mountain¬†,Andy Fickman,PG,2009,65000000,67128202,5.7
+M969,I Am Number Four¬†,D.J. Caruso,PG-13,2011,60000000,55092830,6.1
+M971,13 Hours¬†,Michael Bay,R,2016,50000000,52822418,7.4
+M981,Into the Storm¬†,Steven Quale,PG-13,2014,50000000,47553512,5.8
+M993,Ninja Assassin¬†,James McTeigue,R,2009,40000000,38105077,6.4
+M1003,The Host¬†,Andrew Niccol,PG-13,2013,40000000,26616999,5.9
+M1006,The International¬†,Tom Tykwer,R,2009,50000000,25450527,6.5
+M1011,Free State of Jones¬†,Gary Ross,R,2016,50000000,20389967,6.7
+M1014,Run All Night¬†,Jaume Collet-Serra,R,2015,50000000,26442251,6.6
+M1027,Gamer¬†,Mark Neveldine,R,2009,50000000,20488579,5.8
+M1033,Drive Angry¬†,Patrick Lussier,R,2011,50000000,10706786,5.5
+M1042,Chappie¬†,Neill Blomkamp,R,2015,49000000,31569268,6.9
+M1069,Jonah Hex¬†,Jimmy Hayward,PG-13,2010,47000000,10539414,4.7
+M1078,Journey to the Center of the Earth¬†,Eric Brevig,PG,2008,45000000,101702060,5.8
+M1129,Miracle at St. Anna¬†,Spike Lee,R,2008,45000000,7916887,6
+M1131,Bangkok Dangerous¬†,Danny Pang,R,2008,40000000,15279680,5.4
+M1136,Johnny English Reborn¬†,Oliver Parker,PG,2011,45000000,8129455,6.3
+M1137,Foodfight!¬†,Lawrence Kasanoff,PG,2012,65000000,,1.7
+M1140,The Bounty Hunter¬†,Andy Tennant,PG-13,2010,40000000,67061228,5.5
+M1154,The Mechanic¬†,Simon West,R,2011,40000000,29113588,6.6
+M1155,21 Jump Street¬†,Phil Lord,R,2012,42000000,138447667,7.2
+M1160,The Heat¬†,Paul Feig,R,2013,43000000,159578352,6.6
+M1162,Here Comes the Boom¬†,Frank Coraci,PG,2012,42000000,45290318,6.5
+M1173,One for the Money¬†,Julie Anne Robinson,PG-13,2012,40000000,26404753,5.3
+M1183,Man on a Ledge¬†,Asger Leth,PG-13,2012,42000000,18600911,6.6
+M1195,Lone Survivor¬†,Peter Berg,R,2013,40000000,125069696,7.6
+M1211,Ride Along 2¬†,Tim Story,PG-13,2016,40000000,90835030,5.9
+M1239,Predators¬†,Nimr√≥d Antal,R,2010,40000000,52000688,6.4
+M1251,Aliens vs. Predator: Requiem¬†,Colin Strause,R,2007,40000000,41797066,4.7
+M1305,Cirque du Freak: The Vampire's Assistant¬†,Paul Weitz,PG-13,2009,40000000,13838130,5.9
+M1318,The Gunman¬†,Pierre Morel,R,2015,40000000,10640645,5.8
+M1352,Paul Blart: Mall Cop 2¬†,Andy Fickman,PG,2015,30000000,71038190,4.4
+M1361,Riddick¬†,David Twohy,R,2013,38000000,41997790,6.4
+M1368,The 5th Wave¬†,J Blakeson,PG-13,2016,38000000,34912982,5.2
+M1376,Cop Out¬†,Kevin Smith,R,2010,37000000,44867349,5.6
+M1433,Underworld: Rise of the Lycans¬†,Patrick Tatopoulos,R,2009,35000000,45802315,6.6
+M1442,In Time¬†,Andrew Niccol,PG-13,2011,40000000,37553932,6.7
+M1462,Alex Cross¬†,Rob Cohen,PG-13,2012,35000000,25863915,5.1
+M1464,Heist¬†,Scott Mann,R,2015,19000000,,6.1
+M1470,Abduction¬†,John Singleton,PG-13,2011,35000000,28064226,5
+M1473,Superhero Movie¬†,Craig Mazin,PG-13,2008,35000000,25871834,4.5
+M1476,Premium Rush¬†,David Koepp,PG-13,2012,35000000,20275446,6.5
+M1477,Hot Pursuit¬†,Anne Fletcher,PG-13,2015,35000000,34507079,5.1
+M1479,Parker¬†,Taylor Hackford,R,2013,35000000,17609982,6.2
+M1490,Whiteout¬†,Dominic Sena,R,2009,35000000,10268846,5.5
+M1493,Sabotage¬†,David Ayer,R,2014,35000000,10499968,5.7
+M1495,Punisher: War Zone¬†,Lexi Alexander,R,2008,35000000,7948159,6
+M1512,The Maze Runner¬†,Wes Ball,PG-13,2014,34000000,102413606,6.8
+M1517,Stolen¬†,Simon West,R,2012,35000000,183125,5.5
+M1529,The Darkest Hour¬†,Chris Gorak,PG-13,2011,30000000,21426805,4.9
+M1535,Safe¬†,Boaz Yakin,R,2012,30000000,17120019,6.5
+M1550,Takers¬†,John Luessenhop,PG-13,2010,20000000,57744720,6.2
+M1552,"Big Mommas: Like Father, Like Son¬†",John Whitesell,PG-13,2011,32000000,37911876,4.4
+M1564,Repo Men¬†,Miguel Sapochnik,R,2010,32000000,13763130,6.3
+M1583,Ghostbusters¬†,Paul Feig,PG-13,2016,144000000,118099659,5.5
+M1616,Looper¬†,Rian Johnson,R,2012,30000000,66468315,7.4
+M1645,Sicario¬†,Denis Villeneuve,R,2015,30000000,46875468,7.6
+M1659,Hanna¬†,Joe Wright,PG-13,2011,30000000,40247512,6.8
+M1668,9¬†,Shane Acker,PG-13,2009,30000000,31743332,7.1
+M1703,Dragonball: Evolution¬†,James Wong,PG,2009,45000000,9353573,2.7
+M1704,The Last Stand¬†,Jee-woon Kim,R,2013,45000000,12026670,6.4
+M1716,Dead Man Down¬†,Niels Arden Oplev,R,2013,30000000,10880926,6.5
+M1726,Wild Card¬†,Simon West,R,2015,30000000,,5.6
+M1727,Machine Gun Preacher¬†,Marc Forster,R,2011,30000000,537580,6.8
+M1780,3 Days to Kill¬†,McG,PG-13,2014,28000000,30688364,6.2
+M1786,The Spy Next Door¬†,Brian Levant,PG,2010,28000000,24268828,5.4
+M1790,Pride and Prejudice and Zombies¬†,Burr Steers,PG-13,2016,28000000,10907291,5.8
+M1793,Kick-Ass 2¬†,Jeff Wadlow,R,2013,28000000,28751715,6.6
+M1825,Spy Kids: All the Time in the World in 4D¬†,Robert Rodriguez,PG,2011,27000000,38536376,3.6
+M1833,Paul Blart: Mall Cop¬†,Steve Carr,PG,2009,26000000,20819129,5.2
+M1839,Pineapple Express¬†,David Gordon Green,R,2008,27000000,87341380,7
+M1848,Legion¬†,Scott Stewart,R,2010,26000000,40168080,5.2
+M1865,Self/less¬†,Tarsem Singh,PG-13,2015,26000000,12276810,6.5
+M1883,Cloverfield¬†,Matt Reeves,PG-13,2008,25000000,80034302,7
+M1887,Ride Along¬†,Tim Story,PG-13,2014,25000000,134141530,6.2
+M1901,The Grey¬†,Joe Carnahan,R,2011,25000000,51533608,6.8
+M1910,Contraband¬†,Baltasar Korm√°kur,R,2012,25000000,66489425,6.5
+M1937,Dance Flick¬†,Damien Dante Wayans,PG-13,2009,25000000,25615792,3.5
+M1950,The Losers¬†,Sylvain White,PG-13,2010,25000000,23527955,6.4
+M1952,War¬†,Philip G. Atwell,R,2007,25000000,22466994,6.3
+M1987,Straw Dogs¬†,Rod Lurie,R,2011,25000000,10324441,5.8
+M2016,Red Sky¬†,Mario Van Peebles,PG-13,2014,25000000,,4.1
+M2021,Point Break¬†,Ericson Core,PG-13,2015,105000000,28772222,5.3
+M2023,Jane Got a Gun¬†,Gavin O'Connor,R,2016,25000000,1512815,5.8
+M2047,Faster¬†,George Tillman Jr.,R,2010,24000000,23225911,6.5
+M2110,Homefront¬†,Gary Fleder,R,2013,22000000,19783777,6.5
+M2121,Hit and Run¬†,David Palmer,R,2012,2000000,13746550,6.1
+M2142,Never Back Down¬†,Jeff Wadlow,PG-13,2008,20000000,24848292,6.6
+M2161,Jackass 3D¬†,Jeff Tremaine,R,2010,20000000,117224271,7.1
+M2214,Risen¬†,Kevin Reynolds,PG-13,2016,20000000,36874745,6.3
+M2226,Street Kings¬†,David Ayer,R,2008,20000000,26415649,6.8
+M2270,Armored¬†,Nimr√≥d Antal,PG-13,2009,27000000,15988876,5.7
+M2275,Crank: High Voltage¬†,Mark Neveldine,R,2009,20000000,13630226,6.2
+M2282,12 Rounds¬†,Renny Harlin,PG-13,2009,22000000,12232937,5.6
+M2287,Triple 9¬†,John Hillcoat,R,2016,20000000,12626905,6.3
+M2294,Death Sentence¬†,James Wan,R,2007,20000000,9525276,6.8
+M2298,Code Name: The Cleaner¬†,Les Mayfield,PG-13,2007,20000000,8104069,4.5
+M2317,A Most Violent Year¬†,J.C. Chandor,R,2014,20000000,5749134,7
+M2321,The Cold Light of Day¬†,Mabrouk El Mechri,PG-13,2012,20000000,3749061,4.9
+M2341,Dylan Dog: Dead of Night¬†,Kevin Munroe,PG-13,2010,20000000,1183354,5.1
+M2353,Survivor¬†,James McTeigue,PG-13,2015,20000000,,5.6
+M2367,Fight Valley¬†,Rob Hawk,,2016,27000000,,5
+M2400,Left Behind¬†,Vic Armstrong,PG-13,2014,16000000,13998282,3.1
+M2442,Getaway¬†,Courtney Solomon,PG-13,2013,18000000,10494494,4.4
+M2471,I Am Wrath¬†,Chuck Russell,R,2016,18000000,,5.2
+M2484,The Prince¬†,Brian A Miller,R,2014,18000000,,4.6
+M2500,TRON: Legacy¬†,Joseph Kosinski,PG,2010,170000000,172051787,6.8
+M2569,Left Behind¬†,Vic Armstrong,PG-13,2014,16000000,13998282,3.1
+M2633,Snitch¬†,Ric Roman Waugh,PG-13,2013,15000000,42919096,6.5
+M2651,Clash of the Titans¬†,Louis Leterrier,PG-13,2010,125000000,163192114,5.8
+M2675,Keanu¬†,Peter Atencio,R,2016,15000000,20566327,6.4
+M2679,The November Man¬†,Roger Donaldson,R,2014,15000000,24984868,6.3
+M2698,The Man with the Iron Fists¬†,RZA,R,2012,15000000,15608545,5.4
+M2768,Broken Horses¬†,Vidhu Vinod Chopra,R,2015,15000000,,5.7
+M2821,Teenage Mutant Ninja Turtles¬†,Jonathan Liebesman,PG-13,2014,125000000,190871240,5.9
+M2837,RoboCop¬†,Jos√© Padilha,PG-13,2014,100000000,58607007,6.2
+M2912,Machete¬†,Ethan Maniquis,R,2010,10500000,26589953,6.7
+M2928,Act of Valor¬†,Mike McCoy,R,2012,12000000,70011073,6.5
+M3141,Skyline¬†,Colin Strause,PG-13,2010,10000000,21371425,4.4
+M3168,MacGruber¬†,Jorma Taccone,R,2010,10000000,8460995,5.5
+M3171,The Tourist¬†,Florian Henckel von Donnersmarck,PG-13,2010,100000000,67631157,6
+M3177,The Collection¬†,Marcus Dunstan,R,2012,10000000,6842058,6.1
+M3218,"War, Inc.¬†",Joshua Seftel,R,2008,10000000,578527,5.7
+M3253,The Devil's Tomb¬†,Jason Connery,R,2009,10000000,,3.8
+M3267,Re-Kill¬†,Valeri Milev,R,2015,9500000,,5.1
+M3273,Into the Grizzly Maze¬†,David Hackl,R,2015,10000000,,5.3
+M3289,The Purge: Anarchy¬†,James DeMonaco,R,2014,9000000,71519230,6.5
+M3318,Heist¬†,Scott Mann,R,2015,19000000,,6.1
+M3347,All Is Lost¬†,J.C. Chandor,PG-13,2013,9000000,6262942,6.9
+M3387,The Boondock Saints II: All Saints Day¬†,Troy Duffy,R,2009,8000000,10269307,6.3
+M3425,The Death and Life of Bobby Z¬†,John Herzfeld,R,2007,22000000,,5.9
+M3427,Swelter¬†,Keith Parmer,R,2014,8000000,,4.6
+M3434,Code of Honor¬†,Michael Winnick,R,2016,8000000,,4.2
+M3462,Spider-Man 3¬†,Sam Raimi,PG-13,2007,258000000,336530303,6.2
+M3540,Alpha and Omega 4: The Legend of the Saw Toothed Cave¬†,Richard Rich,,2014,7000000,,6
+M3542,Stargate: The Ark of Truth¬†,Robert C. Cooper,,2008,,,7.4
+M3650,The Hit List¬†,William Kaufman,R,2011,6000000,,5.4
+M3688,Salvation Boulevard¬†,George Ratliff,R,2011,9000000,27445,5.3
+M3751,No Escape¬†,John Erick Dowdle,R,2015,5000000,27285953,6.8
+M3819,Navy Seals vs. Zombies¬†,Stanton Barrett,,2015,,,3.4
+M3873,Falcon Rising¬†,Ernie Barbarash,R,2014,4500000,8691,5.8
+M3930,Red State¬†,Kevin Smith,R,2011,4000000,,6.2
+M3987,Chain of Command¬†,Kevin Carraway,R,2015,5000000,,3.5
+M4010,The Watch¬†,Akiva Schaffer,R,2012,68000000,34350553,5.7
+M4018,"Batman: The Dark Knight Returns, Part 2¬†",Jay Oliva,PG-13,2013,3500000,,8.4
+M4021,Wicked Blood¬†,Mark Young,Not Rated,2014,3500000,,5.4
+M4076,Next Day Air¬†,Benny Boom,R,2009,3000000,10017041,5.9
+M4135,Never Back Down 2: The Beatdown¬†,Michael Jai White,R,2011,3000000,,5.8
+M4143,Chicago Overcoat¬†,Brian Caunter,R,2009,3000000,,6.2
+M4147,Close Range¬†,Isaac Florentine,,2015,3000000,,4.9
+M4154,Unnatural¬†,Hank Braxtan,R,2015,3000000,,4
+M4327,Rockaway¬†,Jeff Crook,R,2007,2000000,,4.6
+M4340,The Legend of Hell's Gate: An American Conspiracy¬†,Tanner Beard,PG-13,2011,2000000,,4.4
+M4346,The Marine 4: Moving Target¬†,William Kaufman,R,2015,1950000,,5.2
+M4410,Kickboxer: Vengeance¬†,John Stockwell,,2016,17000000,,9.1
+M4423,Unsullied¬†,Simeon Rice,R,2014,1500000,,5.5
+M4446,Checkmate¬†,Timothy Woodward Jr.,,2015,1500000,,3.1
+M4447,Jack Reacher¬†,Christopher McQuarrie,PG-13,2012,60000000,80033643,7
+M4449,Wind Walkers¬†,Russell Friedenberg,R,2015,2000000,,3.6
+M4488,The Algerian¬†,Giovanni Zelko,,2014,1300000,,7.6
+M4525,The Dead Undead¬†,Matthew R. Anderson,R,2010,1100000,,3
+M4593,Hardflip¬†,Johnny Remo,PG-13,2012,1000000,96734,5.6
+M4630,Zombie Hunter¬†,K. King,Not Rated,2013,1000000,,3.5
+M4650,Snitch¬†,Ric Roman Waugh,PG-13,2013,15000000,42919096,6.5
+M4658,American Hero¬†,Nick Love,,2015,990000,,4.9
+M4677,Aqua Teen Hunger Force Colon Movie Film for Theaters¬†,Matt Maiellaro,R,2007,750000,5518918,6.9
+M4691,Destiny¬†,Joseph Kosinski,,2014,,,8.1
+M4717,Light from the Darkroom¬†,Lance McDaniel,PG-13,2014,600000,,8
+M4769,Subconscious¬†,Georgia Hilton,R,2015,,,2.2
+M4773,Fight to the Finish¬†,Warren Sheppard,PG-13,2016,150000,,4
+M4777,Born to Fly: Elizabeth Streb vs. Gravity¬†,Catherine Gund,,2014,500000,21199,6.8
+M4783,Diamond Ruff¬†,Alec Asten,R,2015,500000,,4.3
+M4842,Royal Kill¬†,Babar Ahmed,PG-13,2009,350000,,3.2
+M4855,Death Calls¬†,Ken Del Conte,R,2010,290000,,4.3
+M4860,Amidst the Devil's Wings¬†,Daniel Columbie,,2014,300000,,4.3
+M4877,Ink¬†,Jamin Winans,,2009,,,7
+M4936,Heroes of Dirt¬†,Eric Bugbee,PG-13,2015,,,7.1
+M4969,Echo Dr.¬†,Patrick Ryan Sims,,2013,100000,,3.6
+M4977,Queen Crab¬†,Brett Piper,,2015,75000,,4.5
+M5013,Sabotage¬†,David Ayer,R,2014,35000000,10499968,5.7
