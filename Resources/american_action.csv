@@ -1,0 +1,381 @@
+movie_id,cast_set_num,movie_title,duration,director_name,color,genres,plot_keywords,movie_language,country,content_rating,budget,title_year,aspect_ratio
+M381,CS480,Now You See Me 2¬†,129,Jon M. Chu,Color,Action|Adventure|Comedy|Crime|Mystery|Thriller,card trick|london england|magician|rain machine|rooftop,English,USA,PG-13,90000000,2016,2.35
+M641,CS740,The Finest Hours¬†,117,Craig Gillespie,Color,Action|Drama|History|Thriller,1950s|coast guard|oil tanker|sinking ship|survival,English,USA,PG-13,,2016,2.35
+M2675,CS2774,Keanu¬†,100,Peter Atencio,Color,Action|Comedy,car chase|gangsta|gun fight|hitman|kitten,English,USA,R,15000000,2016,2.35
+M058,CS157,Star Trek Beyond¬†,122,Justin Lin,Color,Action|Adventure|Sci-Fi|Thriller,hatred|sequel|space opera|star trek|third part,English,USA,PG-13,185000000,2016,2.35
+M1583,CS1682,Ghostbusters¬†,116,Paul Feig,Color,Action|Comedy|Fantasy|Sci-Fi,ghost|ghostbuster|ghostbusters|male objectification|reboot,English,USA,PG-13,144000000,2016,2.35
+M568,CS667,The Angry Birds Movie¬†,97,Clay Kaytis,Color,Action|Animation|Comedy|Family,butt|downward duck|fish|kingfisher|pig,English,USA,PG,73000000,2016,1.85
+M2471,CS2570,I Am Wrath¬†,92,Chuck Russell,Color,Action|Crime|Drama|Thriller,conspiracy|female scientist|mugging|police detective|tattoo,English,USA,R,18000000,2016,
+M2367,CS2466,Fight Valley¬†,90,Rob Hawk,Color,Action|Drama,,English,USA,,27000000,2016,
+M064,CS163,The Legend of Tarzan¬†,110,David Yates,Color,Action|Adventure|Drama|Romance,africa|capture|jungle|male objectification|tarzan,English,USA,PG-13,180000000,2016,2.35
+M2287,CS2386,Triple 9¬†,115,John Hillcoat,Color,Action|Crime|Drama|Thriller,betrayal|corrupt cop|heist|murder of a police officer|police detective,English,USA,R,20000000,2016,2.35
+M245,CS344,The Huntsman: Winter's War¬†,120,Cedric Nicolas-Troyan,Color,Action|Adventure|Drama|Fantasy,based on fairy tale|dark fantasy|fairy tale|second part|sequel,English,USA,PG-13,115000000,2016,2.35
+M066,CS165,X-Men: Apocalypse¬†,144,Bryan Singer,Color,Action|Adventure|Sci-Fi,mutant|superhero|superhero team|x men|year 1983,English,USA,PG-13,178000000,2016,2.35
+M249,CS348,Teenage Mutant Ninja Turtles: Out of the Shadows¬†,112,Dave Green,Color,Action|Adventure|Comedy|Sci-Fi,based on comic book|brother brother relationship|rat|sequel|turtle,English,USA,PG-13,135000000,2016,2.35
+M2214,CS2313,Risen¬†,107,Kevin Reynolds,Color,Action|Adventure|Drama|Mystery,biblical|crucifixion|judea|resurrection|roman soldier,English,USA,PG-13,20000000,2016,2.35
+M265,CS364,Allegiant¬†,120,Robert Schwentke,Color,Action|Adventure|Mystery|Sci-Fi|Thriller,based on young adult novel|dystopia|genetic experimentation|strong female character|strong female lead,English,USA,PG-13,110000000,2016,2.35
+M1790,CS1889,Pride and Prejudice and Zombies¬†,108,Burr Steers,Color,Action|Horror|Romance,based on novel|damsel in distress|deception|england|zombie,English,USA,PG-13,28000000,2016,2.35
+M2023,CS2122,Jane Got a Gun¬†,98,Gavin O'Connor,Color,Action|Drama|Western,brothel|death of husband|ex lover|haunted by the past|redemption,English,USA,R,25000000,2016,2.35
+M074,CS173,Suicide Squad¬†,123,David Ayer,Color,Action|Adventure|Comedy|Sci-Fi,based on comic book|critically bashed|father daughter relationship|reference to superman|super villain,English,USA,PG-13,175000000,2016,2.35
+M813,CS912,Deadpool¬†,108,Tim Miller,Color,Action|Adventure|Comedy|Romance|Sci-Fi,based on comic book|breaking the fourth wall|mercenary|mutant|self healing,English,USA,R,58000000,2016,2.35
+M4410,CS4509,Kickboxer: Vengeance¬†,90,John Stockwell,,Action,,,USA,,17000000,2016,
+M1211,CS1310,Ride Along 2¬†,102,Tim Story,Color,Action|Comedy,computer hacker|crime boss|detective|drugs|wedding,English,USA,PG-13,40000000,2016,2.35
+M943,CS1042,Central Intelligence¬†,107,Rawson Marshall Thurber,Color,Action|Comedy|Crime,accountant|blooper|espionage|facebook|high school reunion,English,USA,PG-13,50000000,2016,2.35
+M011,CS110,Batman v Superman: Dawn of Justice¬†,183,Zack Snyder,Color,Action|Adventure|Sci-Fi,based on comic book|batman|sequel to a reboot|superhero|superman,English,USA,PG-13,250000000,2016,2.35
+M093,CS192,Independence Day: Resurgence¬†,120,Roland Emmerich,Color,Action|Adventure|Sci-Fi,alien|battle|defense|independence day|mothership,English,USA,PG-13,165000000,2016,2.35
+M028,CS127,Captain America: Civil War¬†,147,Anthony Russo,Color,Action|Adventure|Sci-Fi,based on comic book|knife|marvel cinematic universe|returning character killed off|superhero,English,USA,PG-13,250000000,2016,2.35
+M4773,CS4872,Fight to the Finish¬†,94,Warren Sheppard,Color,Action|Romance|Sport,fighting|karate,English,USA,PG-13,150000,2016,
+M109,CS208,Warcraft¬†,123,Duncan Jones,Color,Action|Adventure|Fantasy,based on video game|fictional language|fictional war|orc|sword and sorcery,English,USA,PG-13,160000000,2016,2.35
+M138,CS237,The Legend of Tarzan¬†,110,David Yates,Color,Action|Adventure|Drama|Romance,africa|capture|jungle|male objectification|tarzan,English,USA,PG-13,180000000,2016,2.35
+M3434,CS3533,Code of Honor¬†,106,Michael Winnick,Color,Action,gun|mayor|nightclub|police|vigilantism,English,USA,R,8000000,2016,
+M1011,CS1110,Free State of Jones¬†,139,Gary Ross,Color,Action|Biography|Drama|History|War,american civil war|civil war|u.s. civil war,English,USA,R,50000000,2016,1.85
+M1368,CS1467,The 5th Wave¬†,112,J Blakeson,Color,Action|Adventure|Sci-Fi|Thriller,alien|attack|based on novel|based on young adult novel|fear,English,USA,PG-13,38000000,2016,2.35
+M151,CS250,Ghostbusters¬†,116,Paul Feig,Color,Action|Comedy|Fantasy|Sci-Fi,ghost|ghostbuster|ghostbusters|male objectification|reboot,English,USA,PG-13,144000000,2016,2.35
+M155,CS254,Kung Fu Panda 3¬†,95,Alessandro Carloni,Color,Action|Adventure|Animation|Comedy|Family,china|kung fu|panda|pig|village,English,USA,PG,145000000,2016,2.35
+M971,CS1070,13 Hours¬†,144,Michael Bay,Color,Action|Drama|Thriller|War,based on true story|cia agent|libya|mercenary|u.s. ambassador,English,USA,R,50000000,2016,2.35
+M164,CS263,Gods of Egypt¬†,126,Alex Proyas,Color,Action|Adventure|Fantasy,ancient egypt|egypt|egyptian|egyptian god|egyptian goddess,English,USA,PG-13,140000000,2016,2.35
+M321,CS420,In the Heart of the Sea¬†,122,Ron Howard,Color,Action|Adventure|Biography|Drama|History|Thriller,emaciation|ship|starvation|vomiting|whale,English,USA,PG-13,100000000,2015,1.85
+M3987,CS4086,Chain of Command¬†,88,Kevin Carraway,Color,Action|Thriller,army|michael jai white|ohio|steve austin,English,USA,R,5000000,2015,1.33
+M2021,CS2120,Point Break¬†,114,Ericson Core,Color,Action|Crime|Sport|Thriller,athlete|extreme sports|fbi|fbi agent|heist,English,USA,PG-13,105000000,2015,2.35
+M4449,CS4548,Wind Walkers¬†,93,Russell Friedenberg,Color,Action|Horror|Thriller,after dark horrorfest,English,USA,R,2000000,2015,
+M4446,CS4545,Checkmate¬†,97,Timothy Woodward Jr.,Color,Action|Crime|Thriller,,English,USA,,1500000,2015,2.35
+M030,CS129,Jurassic World¬†,124,Colin Trevorrow,Color,Action|Adventure|Sci-Fi|Thriller,dinosaur|disaster film|experiment gone wrong|jurassic park|velociraptor,English,USA,PG-13,150000000,2015,2
+M1865,CS1964,Self/less¬†,117,Tarsem Singh,Color,Action|Mystery|Sci-Fi|Thriller,cancer|elderly man|funeral|medical|transhumanism,English,USA,PG-13,26000000,2015,2.35
+M4769,CS4868,Subconscious¬†,122,Georgia Hilton,Color,Action|Mystery|Thriller,military|submarine|suspense|time travel|world war two,English,USA,R,,2015,
+M3819,CS3918,Navy Seals vs. Zombies¬†,97,Stanton Barrett,Color,Action|Horror,building|infection|navy seal|shot through the head|zombie,English,USA,,,2015,
+M319,CS418,Point Break¬†,114,Ericson Core,Color,Action|Crime|Sport|Thriller,athlete|extreme sports|fbi|fbi agent|heist,English,USA,PG-13,105000000,2015,2.35
+M4977,CS5076,Queen Crab¬†,80,Brett Piper,Color,Action|Sci-Fi|Thriller,,English,USA,,75000,2015,
+M4346,CS4445,The Marine 4: Moving Target¬†,90,William Kaufman,Color,Action|Thriller,killed in police car|mercenary|police officer shot in the leg|police officer shot through the heart|whistleblower,English,USA,R,1950000,2015,1.78
+M1464,CS1563,Heist¬†,93,Scott Mann,Color,Action|Crime|Thriller,bus|die hard scenario,English,USA,R,19000000,2015,2.35
+M626,CS725,Blackhat¬†,133,Michael Mann,Color,Action|Crime|Drama|Mystery|Thriller,chinese|computer|cybercrime|hacker|one word title,English,USA,R,70000000,2015,2.35
+M1042,CS1141,Chappie¬†,120,Neill Blomkamp,Color,Action|Crime|Drama|Sci-Fi|Thriller,artificial intelligence|consciousness|future|mind uploading|robot,English,USA,R,49000000,2015,2.35
+M2768,CS2867,Broken Horses¬†,101,Vidhu Vinod Chopra,Color,Action|Crime|Drama|Mystery|Thriller,,English,USA,R,15000000,2015,2.35
+M549,CS648,The Man from U.N.C.L.E.¬†,116,Guy Ritchie,Color,Action|Adventure|Comedy,box office flop|cia agent|criminal organization|kgb agent|nuclear bomb,English,USA,PG-13,75000000,2015,2.35
+M186,CS285,Ant-Man¬†,117,Peyton Reed,Color,Action|Adventure|Comedy|Sci-Fi,ant|chinatown san francisco|heist|sabotage|vault,English,USA,PG-13,130000000,2015,1.85
+M009,CS108,Avengers: Age of Ultron¬†,141,Joss Whedon,Color,Action|Adventure|Sci-Fi,artificial intelligence|based on comic book|captain america|marvel cinematic universe|superhero,English,USA,PG-13,250000000,2015,2.35
+M1477,CS1576,Hot Pursuit¬†,87,Anne Fletcher,Color,Action|Comedy|Crime,danger|drug cartel|female cop|female police officer|fugitive,English,USA,PG-13,35000000,2015,2.35
+M4658,CS4757,American Hero¬†,86,Nick Love,Color,Action|Comedy|Drama|Sci-Fi,father son relationship|female nudity|mother daughter relationship|reconciliation|superhero,English,USA,,990000,2015,
+M4783,CS4882,Diamond Ruff¬†,82,Alec Asten,Color,Action,prison|prisoner|reverend|terminal illness|two word title,English,USA,R,500000,2015,
+M3751,CS3850,No Escape¬†,103,John Erick Dowdle,Color,Action|Thriller,asia|fictional country|hotel|rebellion|revolution,English,USA,R,5000000,2015,1.85
+M046,CS145,Furious 7¬†,140,James Wan,Color,Action|Crime|Thriller,car falling off a cliff|hospital|revenge|star died before release|terrorist,English,USA,PG-13,190000000,2015,2.35
+M1645,CS1744,Sicario¬†,121,Denis Villeneuve,Color,Action|Crime|Drama|Mystery|Thriller,critically acclaimed|drug cartel|juarez mexico|u.s. mexico border|war on drugs,English,USA,R,30000000,2015,2.39
+M089,CS188,Tomorrowland¬†,130,Brad Bird,Color,Action|Adventure|Family|Mystery|Sci-Fi,boy genius|futuristic city|inventor|teenage girl|time travel,English,USA,PG,190000000,2015,2.2
+M4936,CS5035,Heroes of Dirt¬†,98,Eric Bugbee,Color,Action|Drama|Sport,bike|bmx|drugs|troubled teen|youth,English,USA,PG-13,,2015,
+M564,CS663,Minions¬†,91,Kyle Balda,Color,Action|Animation|Comedy|Family|Sci-Fi,antarctica|minion|queen|super villain|villain,English,USA,PG,74000000,2015,1.85
+M390,CS489,Fantastic Four¬†,100,Josh Trank,Color,Action|Adventure|Sci-Fi,box office flop|critically bashed|portal|teleportation|troubled production,English,USA,PG-13,120000000,2015,2.35
+M502,CS601,The Last Witch Hunter¬†,106,Breck Eisner,Color,Action|Adventure|Fantasy,box office flop|burned to death|magic|witch|witch hunter,English,USA,PG-13,90000000,2015,2.35
+M2353,CS2452,Survivor¬†,96,James McTeigue,Color,Action|Crime|Thriller,cigarette lighter|death|fire|on the run|terrorist,English,USA,PG-13,20000000,2015,2.35
+M3267,CS3366,Re-Kill¬†,88,Valeri Milev,Color,Action|Horror,after dark|after dark horrorfest|fictional tv news show|outbreak,English,USA,R,9500000,2015,1.78
+M063,CS162,Jupiter Ascending¬†,127,Lana Wachowski,Color,Action|Adventure|Sci-Fi,box office flop|critically bashed|planet earth|space opera|woman in bra and panties,English,USA,PG-13,176000000,2015,2.35
+M3273,CS3372,Into the Grizzly Maze¬†,94,David Hackl,,Action|Horror|Thriller,bear|breasts|female nudity|grizzly|wilderness,English,USA,R,10000000,2015,1.85
+M1014,CS1113,Run All Night¬†,114,Jaume Collet-Serra,Color,Action|Crime|Drama|Thriller,death|drug dealer|limousine|limousine driver|one night,English,USA,R,50000000,2015,2.35
+M373,CS472,Pixels¬†,106,Chris Columbus,Color,Action|Animation|Comedy|Sci-Fi,alien|arcade game|chase|driving in reverse|video gamer,English,USA,PG-13,88000000,2015,2.35
+M1726,CS1825,Wild Card¬†,92,Simon West,Color,Action|Crime|Drama|Thriller,bodyguard|criminal|gambling|mob boss|thug,English,USA,R,30000000,2015,2.35
+M4154,CS4253,Unnatural¬†,89,Hank Braxtan,Color,Action|Horror|Thriller,alaska|climate change|global|polar bear|scientific,English,USA,R,3000000,2015,2.35
+M4147,CS4246,Close Range¬†,80,Isaac Florentine,Color,Action|Crime,corrupt sheriff|drug cartel|flash drive|niece|sheriff,English,USA,,3000000,2015,
+M3318,CS3417,Heist¬†,93,Scott Mann,Color,Action|Crime|Thriller,bus|die hard scenario,English,USA,R,19000000,2015,2.35
+M250,CS349,Fantastic Four¬†,100,Josh Trank,Color,Action|Adventure|Sci-Fi,box office flop|critically bashed|portal|teleportation|troubled production,English,USA,PG-13,120000000,2015,2.35
+M252,CS351,San Andreas¬†,114,Brad Peyton,Color,Action|Adventure|Drama|Thriller,disaster movie|earthquake|journey|natural disaster|san andreas fault,English,USA,PG-13,110000000,2015,2.35
+M1352,CS1451,Paul Blart: Mall Cop 2¬†,94,Andy Fickman,Color,Action|Comedy|Crime,character name in title|no opening credits|sequel|wilhelm scream,English,USA,PG,30000000,2015,1.85
+M731,CS830,The Scorch Trials¬†,132,Wes Ball,Color,Action|Sci-Fi|Thriller,desert|disease|escape|resistance|virus,English,USA,PG-13,61000000,2015,2.35
+M110,CS209,Terminator Genisys¬†,126,Alan Taylor,Color,Action|Adventure|Sci-Fi,alternate timeline|cyborg|future|robot|time machine,English,USA,PG-13,155000000,2015,2.35
+M1318,CS1417,The Gunman¬†,115,Pierre Morel,Color,Action|Crime|Drama|Mystery|Thriller,assassination|blood vomiting|death|hit squad|mercenary,English,USA,R,40000000,2015,2.35
+M471,CS570,Fury¬†,134,David Ayer,Color,Action|Drama|War,battle|battlefield|brutality|combat|tank,English,USA,R,68000000,2014,2.35
+M4860,CS4959,Amidst the Devil's Wings¬†,90,Daniel Columbie,Color,Action|Crime|Drama,,English,USA,,300000,2014,
+M650,CS749,Need for Speed¬†,132,Scott Waugh,Color,Action|Crime|Drama|Thriller,cross country|custom car|illegal street racing|police officer crushed|street racing,English,USA,PG-13,66000000,2014,2.35
+M981,CS1080,Into the Storm¬†,89,Steven Quale,Color,Action|Thriller,danger|graduation|storm|teenage boy|tornado,English,USA,PG-13,50000000,2014,1.85
+M692,CS791,Sin City: A Dame to Kill For¬†,102,Frank Miller, Black and White,Action|Crime|Thriller,box office flop|female frontal nudity|female rear nudity|jackpot|rescue,English,USA,R,65000000,2014,1.85
+M761,CS860,Jack Ryan: Shadow Recruit¬†,105,Kenneth Branagh,Color,Action|Drama|Thriller,covert analyst|marine|russian|spy|stock market,English,USA,PG-13,60000000,2014,2.35
+M940,CS1039,22 Jump Street¬†,112,Phil Lord,Color,Action|Comedy|Crime,college|drugs|hidden camera|tattoo|undercover,English,USA,R,50000000,2014,2.35
+M849,CS948,The Equalizer¬†,132,Antoine Fuqua,Color,Action|Crime|Thriller,assassin|ex soldier|gangster|hanged man|mysterious past,English,USA,R,55000000,2014,2.35
+M815,CS914,American Sniper¬†,133,Clint Eastwood,Color,Action|Biography|Drama|History|Thriller|War,assassin|death of child|iraq|sniper|sniper rifle,English,USA,R,58800000,2014,2.35
+M038,CS137,Transformers: Age of Extinction¬†,165,Michael Bay,Color,Action|Adventure|Sci-Fi,blockbuster|bumblebee the character|semi truck and trailer|texas|truck,English,USA,PG-13,210000000,2014,2.35
+M040,CS139,The Amazing Spider-Man 2¬†,142,Marc Webb,Color,Action|Adventure|Fantasy|Sci-Fi,costumed hero|death of girlfriend|masked vigilante|returning character killed off|teenager,English,USA,PG-13,200000000,2014,2.35
+M4777,CS4876,Born to Fly: Elizabeth Streb vs. Gravity¬†,82,Catherine Gund,Color,Action|Biography|Documentary|Sport,three word title,English,USA,,500000,2014,
+M048,CS147,X-Men: Days of Future Past¬†,149,Bryan Singer,Color,Action|Adventure|Fantasy|Sci-Fi|Thriller,dystopia|super strength|supernatural power|time paradox|time travel,English,USA,PG-13,200000000,2014,2.35
+M4717,CS4816,Light from the Darkroom¬†,90,Lance McDaniel,Color,Action|Drama|Thriller,china|faith|panama|photography|suspense,English,USA,PG-13,600000,2014,
+M4691,CS4790,Destiny¬†,,Joseph Kosinski,Color,Action|Adventure|Fantasy|Sci-Fi,first person shooter,English,USA,,,2014,
+M4488,CS4587,The Algerian¬†,99,Giovanni Zelko,Color,Action|Romance|Thriller,algeria|algerian|los angeles california|muslim,English,USA,,1300000,2014,1.85
+M4423,CS4522,Unsullied¬†,93,Simeon Rice,Color,Action|Horror|Thriller,,English,USA,R,1500000,2014,2.35
+M076,CS175,Edge of Tomorrow¬†,113,Doug Liman,Color,Action|Adventure|Sci-Fi,alien|combat|dying repeatedly|end of the world|time loop,English,USA,PG-13,178000000,2014,2.35
+M083,CS182,Maleficent¬†,97,Robert Stromberg,Color,Action|Adventure|Family|Fantasy|Romance,curse|dark fantasy|fairy|king|kingdom,English,USA,PG,180000000,2014,2.35
+M084,CS183,Dawn of the Planet of the Apes¬†,130,Matt Reeves,Color,Action|Adventure|Drama|Sci-Fi,ape|dam|leader|post apocalypse|sequel,English,USA,PG-13,170000000,2014,1.85
+M087,CS186,Captain America: The Winter Soldier¬†,136,Anthony Russo,Color,Action|Adventure|Sci-Fi,conspiracy|heroism|megalomaniac|super soldier|world domination,English,USA,PG-13,170000000,2014,2.35
+M090,CS189,Big Hero 6¬†,102,Don Hall,Color,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,high tech|martial arts|masked man|robot|superhero,English,USA,PG,165000000,2014,2.39
+M096,CS195,Guardians of the Galaxy¬†,121,James Gunn,Color,Action|Adventure|Sci-Fi,bounty hunter|outer space|raccoon|talking animal|tree,English,USA,PG-13,170000000,2014,2.35
+M4021,CS4120,Wicked Blood¬†,92,Mark Young,Color,Action|Crime|Drama|Thriller,chess|drugs|love|meth|pawn,English,USA,Not Rated,3500000,2014,1.85
+M3873,CS3972,Falcon Rising¬†,103,Ernie Barbarash,Color,Action|Adventure,,English,USA,R,4500000,2014,
+M3540,CS3639,Alpha and Omega 4: The Legend of the Saw Toothed Cave¬†,45,Richard Rich,,Action|Adventure|Animation|Comedy|Drama|Family|Fantasy|Thriller,blindness|cave|spirit|wolf|wolf cub,,USA,,7000000,2014,
+M3427,CS3526,Swelter¬†,96,Keith Parmer,Color,Action|Crime|Drama|Thriller,police officer killed|police officer shot in the chest|police officer shot in the forehead|police officer shot in the head|police shootout,English,USA,R,8000000,2014,
+M3289,CS3388,The Purge: Anarchy¬†,103,James DeMonaco,Color,Action|Horror|Sci-Fi|Thriller,held at gunpoint|machete|masked man|sequel|violence,English,USA,R,9000000,2014,2.35
+M163,CS262,How to Train Your Dragon 2¬†,102,Dean DeBlois,Color,Action|Adventure|Animation|Comedy|Family|Fantasy,dragon|father son relationship|husband wife relationship|mother son relationship|viking,English,USA,PG,145000000,2014,2.35
+M2837,CS2936,RoboCop¬†,117,Jos√© Padilha,Color,Action|Crime|Sci-Fi|Thriller,law enforcement|police|robocop|robot|technology,English,USA,PG-13,100000000,2014,2.35
+M2821,CS2920,Teenage Mutant Ninja Turtles¬†,101,Jonathan Liebesman,Color,Action|Adventure|Comedy|Sci-Fi,18 wheeler|mutant|ninja|sewer|turtle,English,USA,PG-13,125000000,2014,2.35
+M2679,CS2778,The November Man¬†,108,Roger Donaldson,Color,Action|Crime|Thriller,critically bashed|premarital sex|sex scene|sex standing up|stripper,English,USA,R,15000000,2014,2.35
+M194,CS293,Noah¬†,138,Darren Aronofsky,Color,Action|Adventure|Drama,ark|flood|noah's ark|water|wrath of god,English,USA,PG-13,125000000,2014,1.85
+M2569,CS2668,Left Behind¬†,110,Vic Armstrong,Color,Action|Drama|Fantasy|Mystery|Thriller,bible quote|chaos|faith|riot|shrine,English,USA,PG-13,16000000,2014,2.35
+M2484,CS2583,The Prince¬†,93,Brian A Miller,Color,Action|Thriller,assassin|fight|mechanic|rescue|rival,English,USA,R,18000000,2014,2.35
+M2400,CS2499,Left Behind¬†,110,Vic Armstrong,Color,Action|Drama|Fantasy|Mystery|Thriller,bible quote|chaos|faith|riot|shrine,English,USA,PG-13,16000000,2014,2.35
+M232,CS331,RoboCop¬†,117,Jos√© Padilha,Color,Action|Crime|Sci-Fi|Thriller,law enforcement|police|robocop|robot|technology,English,USA,PG-13,100000000,2014,2.35
+M2317,CS2416,A Most Violent Year¬†,125,J.C. Chandor,Color,Action|Crime|Drama|Thriller,american dream|immigrant|new york city|oil|violence,English,USA,R,20000000,2014,2.35
+M246,CS345,Teenage Mutant Ninja Turtles¬†,101,Jonathan Liebesman,Color,Action|Adventure|Comedy|Sci-Fi,18 wheeler|mutant|ninja|sewer|turtle,English,USA,PG-13,125000000,2014,2.35
+M262,CS361,300: Rise of an Empire¬†,102,Noam Murro,Color,Action|Drama|Fantasy|War,army|commander|female rear nudity|greek|navy,English,USA,R,110000000,2014,2.35
+M2016,CS2115,Red Sky¬†,100,Mario Van Peebles,,Action|Thriller,exploding airplane|fighter pilot|hands tied|held at gunpoint|military,English,USA,PG-13,25000000,2014,
+M5013,CS5112,Sabotage¬†,109,David Ayer,Color,Action|Crime|Drama|Thriller,dea|drug cartel|kicked in the crotch|strip club|tough girl,English,USA,R,35000000,2014,1.85
+M1887,CS1986,Ride Along¬†,99,Tim Story,Color,Action|Comedy|Crime|Romance,gunfight|outrunning explosion|police|security guard|street shootout,English,USA,PG-13,25000000,2014,2.35
+M315,CS414,Hercules¬†,101,Brett Ratner,Color,Action|Adventure,army|greek mythology|hercules|king|mercenary,English,USA,PG-13,100000000,2014,2.35
+M318,CS417,The Expendables 3¬†,131,Patrick Hughes,Color,Action|Adventure|Thriller,battle|fight|mission|pg 13 sequel to r rated franchise|rescue,English,USA,PG-13,90000000,2014,2.35
+M342,CS441,Seventh Son¬†,102,Sergey Bodrov,Color,Action|Adventure|Fantasy,apprentice|demon|exorcism|master apprentice relationship|witch,English,USA,PG-13,95000000,2014,2.35
+M1780,CS1879,3 Days to Kill¬†,123,McG,Color,Action|Drama|Thriller,cancer|estranged wife|leather dress|spy|terrorist,English,USA,PG-13,28000000,2014,2.35
+M1512,CS1611,The Maze Runner¬†,113,Wes Ball,Color,Action|Mystery|Sci-Fi|Thriller,based on novel|concrete wall|maze|open ended|teenage boy,English,USA,PG-13,34000000,2014,2.35
+M1493,CS1592,Sabotage¬†,109,David Ayer,Color,Action|Crime|Drama|Thriller,dea|drug cartel|kicked in the crotch|strip club|tough girl,English,USA,R,35000000,2014,1.85
+M591,CS690,Hercules¬†,101,Brett Ratner,Color,Action|Adventure,army|greek mythology|hercules|king|mercenary,English,USA,PG-13,100000000,2014,2.35
+M609,CS708,Dracula Untold¬†,92,Gary Shore,Color,Action|Drama|Fantasy|Horror|War,death of wife|dracula|tarantula|turk|vampire,English,USA,PG-13,70000000,2014,2.35
+M630,CS729,The Legend of Hercules¬†,99,Renny Harlin,Color,Action|Adventure|Fantasy,ancient greece|forbidden love|hercules|king|slavery,English,USA,PG-13,70000000,2014,2.35
+M1716,CS1815,Dead Man Down¬†,118,Niels Arden Oplev,Color,Action|Crime|Drama|Thriller,crime lord|dead body|dead body in a freezer|new york city|truck explosion,English,USA,R,30000000,2013,2.35
+M1704,CS1803,The Last Stand¬†,107,Jee-woon Kim,Color,Action|Crime|Thriller,deputy|escape|fbi|modern western|sheriff,English,USA,R,45000000,2013,2.35
+M236,CS335,Oblivion¬†,124,Joseph Kosinski,Color,Action|Adventure|Mystery|Sci-Fi,cabin in the woods|drone|flying through a thunderstorm|post apocalypse|sex in a pool,English,USA,PG-13,120000000,2013,2.35
+M230,CS329,Elysium¬†,109,Neill Blomkamp,Color,Action|Drama|Sci-Fi|Thriller,christ figure|class differences|messiah|saviour|social commentary,English,USA,R,115000000,2013,2.35
+M4969,CS5068,Echo Dr.¬†,81,Patrick Ryan Sims,Color,Action|Drama|Sci-Fi|Thriller,android|artificial intelligence|home invasion|security system|tech noir,English,USA,,100000,2013,1.78
+M2442,CS2541,Getaway¬†,90,Courtney Solomon,Color,Action|Crime|Thriller,die hard scenario|earth viewed from space|race against time|race car driver|title at the end,English,USA,PG-13,18000000,2013,2.35
+M204,CS303,R.I.P.D.¬†,96,Robert Schwentke,Color,Action|Comedy|Fantasy,drug dealer|gold|partner|police|undead,English,USA,PG-13,130000000,2013,2.35
+M198,CS297,After Earth¬†,100,M. Night Shyamalan,Color,Action|Adventure|Sci-Fi,box office flop|father son team|fear|race against time|real life father and son playing father and son,English,USA,PG-13,130000000,2013,2.35
+M033,CS132,Iron Man 3¬†,195,Shane Black,Color,Action|Adventure|Sci-Fi,armor|explosion|human bomb|missile attack|terrorist,English,USA,PG-13,200000000,2013,2.35
+M771,CS870,Gangster Squad¬†,113,Ruben Fleischer,Color,Action|Crime|Drama|Thriller,good versus evil|machine gun|mobster|police vigilantism|year 1949,English,USA,R,60000000,2013,2.35
+M1479,CS1578,Parker¬†,118,Taylor Hackford,Color,Action|Crime|Romance|Thriller,action hero|disguise|hospital|real estate agent|thief,English,USA,R,35000000,2013,2.35
+M2633,CS2732,Snitch¬†,112,Ric Roman Waugh,Color,Action|Drama|Thriller,cigarette smoking|dea|drugs|inspired by true events|undercover,English,USA,PG-13,15000000,2013,2.35
+M447,CS546,RED 2¬†,116,Dean Parisot,Color,Action|Comedy|Crime|Thriller,cia|cia agent|rescue|russian|team,English,USA,PG-13,84000000,2013,2.35
+M169,CS268,G.I. Joe: Retaliation¬†,122,Jon M. Chu,Color,Action|Adventure|Sci-Fi|Thriller,general|gi joe|martial arts|ninja|president,English,USA,PG-13,130000000,2013,2.35
+M3347,CS3446,All Is Lost¬†,106,J.C. Chandor,Color,Action|Adventure|Drama,boat|container|sea|shipping container|storm,English,USA,PG-13,9000000,2013,2.35
+M1361,CS1460,Riddick¬†,127,David Twohy,Color,Action|Sci-Fi|Thriller,alien|left for dead|mercenary|survival|vomiting,English,USA,R,38000000,2013,2.35
+M1003,CS1102,The Host¬†,125,Andrew Niccol,Color,Action|Adventure|Romance|Sci-Fi|Thriller,alien|alien creature|body snatching|desert|parasite,English,USA,PG-13,40000000,2013,2.35
+M143,CS242,White House Down¬†,131,Roland Emmerich,Color,Action|Drama|Thriller,black u.s. president|president|secret service|tour|white house,English,USA,PG-13,150000000,2013,2.35
+M016,CS115,Man of Steel¬†,143,Zack Snyder,Color,Action|Adventure|Fantasy|Sci-Fi,based on comic book|british actor playing american character|final battle|origin of hero|reboot,English,USA,PG-13,225000000,2013,2.35
+M128,CS227,Thor: The Dark World¬†,112,Alan Taylor,Color,Action|Adventure|Fantasy,arrest|portal|thor|warrior|weapon,English,USA,PG-13,170000000,2013,2.35
+M4018,CS4117,"Batman: The Dark Knight Returns, Part 2¬†",148,Jay Oliva,Color,Action|Animation|Crime|Sci-Fi|Thriller,batman|joker|mutant|tattoo on breast|the joker,English,USA,PG-13,3500000,2013,
+M086,CS185,47 Ronin¬†,128,Carl Rinsch,Color,Action|Adventure|Drama|Fantasy,box office flop|ronin|samurai|shogun|tournament,English,USA,PG-13,175000000,2013,2.35
+M015,CS114,The Lone Ranger¬†,150,Gore Verbinski,Color,Action|Adventure|Western,horse|outlaw|texas|texas ranger|train,English,USA,PG-13,215000000,2013,2.35
+M1195,CS1294,Lone Survivor¬†,121,Peter Berg,Color,Action|Biography|Drama|Thriller|War,courage|navy seal|outnumbered|shot multiple times|survival,English,USA,R,40000000,2013,2.35
+M4630,CS4729,Zombie Hunter¬†,93,K. King,Color,Action|Comedy|Horror,desert|drifter|seduction|siege|zombie,English,USA,Not Rated,1000000,2013,2.35
+M1160,CS1259,The Heat¬†,123,Paul Feig,Color,Action|Comedy|Crime,drug lord|fbi|fbi agent|hospital|shot in the crotch,English,USA,R,43000000,2013,2.35
+M4650,CS4749,Snitch¬†,112,Ric Roman Waugh,Color,Action|Drama|Thriller,cigarette smoking|dea|drugs|inspired by true events|undercover,English,USA,PG-13,15000000,2013,2.35
+M053,CS152,Pacific Rim¬†,131,Guillermo del Toro,Color,Action|Adventure|Sci-Fi,giant monster|kaiju|pilot|portal|robot,English,USA,PG-13,190000000,2013,1.85
+M049,CS148,Star Trek Into Darkness¬†,132,J.J. Abrams,Color,Action|Adventure|Sci-Fi,admiral|captain|manhunt|mission|space,English,USA,PG-13,190000000,2013,2.35
+M629,CS728,Escape Plan¬†,115,Mikael H√•fstr√∂m,Color,Action|Crime|Mystery|Sci-Fi|Thriller,cia agent|escape|muslim|prison|ship,English,USA,R,50000000,2013,2.35
+M600,CS699,Olympus Has Fallen¬†,119,Antoine Fuqua,Color,Action|Thriller,political thriller|politics|president|speaker of the house|u.s. president,English,USA,R,70000000,2013,2.35
+M269,CS368,Ender's Game¬†,114,Gavin Hood,Color,Action|Sci-Fi,alien|future|manipulation|simulation|training,English,USA,PG-13,110000000,2013,2.35
+M047,CS146,World War Z¬†,123,Marc Forster,Color,Action|Adventure|Horror|Sci-Fi|Thriller,chaos|disease|infection|pandemic|zombie,English,USA,PG-13,190000000,2013,2.35
+M1793,CS1892,Kick-Ass 2¬†,103,Jeff Wadlow,Color,Action|Comedy|Crime,hit in the crotch|kicked in the crotch|punched in the crotch|sparring|superhero,English,USA,R,28000000,2013,2.35
+M348,CS447,A Good Day to Die Hard¬†,101,John Moore,Color,Action|Thriller,bomb|cia|courthouse|escape|russian,English,USA,R,92000000,2013,1.85
+M2110,CS2209,Homefront¬†,100,Gary Fleder,Color,Action|Crime|Drama|Thriller,biker|biker gang|dea|dea agent|fight,English,USA,R,22000000,2013,2.35
+M723,CS822,2 Guns¬†,109,Baltasar Korm√°kur,Color,Action|Comedy|Crime|Drama|Thriller,close up of breasts|female nudity|fugitive|money|undercover,English,USA,R,61000000,2013,2.35
+M240,CS339,The Wolverine¬†,138,James Mangold,Color,Action|Adventure|Sci-Fi|Thriller,healing power|marvel comics|mecha|regeneration|self healing,English,USA,PG-13,120000000,2013,2.35
+M1462,CS1561,Alex Cross¬†,101,Rob Cohen,Color,Action|Crime|Mystery|Thriller,assassin|detective|partner|police|serial killer,English,USA,PG-13,35000000,2012,2.35
+M004,CS103,The Dark Knight Rises¬†,164,Christopher Nolan,Color,Action|Thriller,deception|imprisonment|lawlessness|police officer|terrorist plot,English,USA,PG-13,250000000,2012,2.35
+M006,CS105,John Carter¬†,132,Andrew Stanton,Color,Action|Adventure|Sci-Fi,alien|american civil war|male nipple|mars|princess,English,USA,PG-13,263700000,2012,2.35
+M018,CS117,The Avengers¬†,173,Joss Whedon,Color,Action|Adventure|Sci-Fi,alien invasion|assassin|battle|iron man|soldier,English,USA,PG-13,220000000,2012,1.85
+M020,CS119,Men in Black 3¬†,106,Barry Sonnenfeld,Color,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,alien|criminal|m.i.b.|maximum security prison|prison,English,USA,PG-13,225000000,2012,1.85
+M022,CS121,The Amazing Spider-Man¬†,153,Marc Webb,Color,Action|Adventure|Fantasy,lizard|outcast|spider|spider man|teenager,English,USA,PG-13,230000000,2012,2.35
+M029,CS128,Battleship¬†,131,Peter Berg,Color,Action|Adventure|Sci-Fi|Thriller,box office flop|hawaii|naval|oahu hawaii|ship,English,USA,PG-13,209000000,2012,2.35
+M082,CS181,Snow White and the Huntsman¬†,132,Rupert Sanders,Color,Action|Adventure|Drama|Fantasy,evil queen|fairy tale|magic|queen|snow white,English,USA,PG-13,170000000,2012,2.35
+M134,CS233,Wrath of the Titans¬†,99,Jonathan Liebesman,Color,Action|Adventure|Fantasy,ares|hades|titan|underworld|zeus,English,USA,PG-13,150000000,2012,1.85
+M217,CS316,The Bourne Legacy¬†,135,Tony Gilroy,Color,Action|Adventure|Thriller,assassin|cia|drone|pill|wolf,English,USA,PG-13,125000000,2012,2.35
+M300,CS399,The Expendables 2¬†,103,Simon West,Color,Action|Adventure|Thriller,church|hostage|mine|plutonium|revenge,English,USA,R,92000000,2012,2.35
+M406,CS505,Safe House¬†,115,Daniel Espinosa,Color,Action|Crime|Mystery|Thriller,cia|cia agent|consulate|on the run|safe house,English,USA,R,85000000,2012,2.35
+M511,CS610,Journey 2: The Mysterious Island¬†,94,Brad Peyton,Color,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,gold|hurricane|island|mountain|mysterious island,English,USA,PG,79000000,2012,1.85
+M617,CS716,Underworld: Awakening¬†,88,M√•ns M√•rlind,Color,Action|Fantasy|Horror,battle|cryogenics|detective|scientist|vampire,English,USA,R,70000000,2012,2.35
+M644,CS743,Abraham Lincoln: Vampire Hunter¬†,105,Timur Bekmambetov,Color,Action|Fantasy|Horror,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter,English,USA,R,69000000,2012,2.35
+M675,CS774,This Means War¬†,103,McG,Color,Action|Comedy|Romance,best friend|cia|cia agent|dating|undercover,English,USA,PG-13,65000000,2012,2.35
+M740,CS839,Jack Reacher¬†,130,Christopher McQuarrie,Color,Action|Crime|Mystery|Thriller,coma|mysterious villain|police chase|shooting range|sniper,English,USA,PG-13,60000000,2012,2.35
+M795,CS894,The Avengers¬†,173,Joss Whedon,Color,Action|Adventure|Sci-Fi,alien invasion|assassin|battle|iron man|soldier,English,USA,PG-13,220000000,2012,1.85
+M826,CS925,Red Tails¬†,125,Anthony Hemingway,Color,Action|Adventure|Drama|History|War,african american|battle|italy|tuskegee airmen|world war two,English,USA,PG-13,58000000,2012,2.35
+M872,CS971,The Watch¬†,102,Akiva Schaffer,Color,Action|Comedy|Sci-Fi,alien|escape|manager|neighborhood watch|ohio,English,USA,R,68000000,2012,2.35
+M895,CS994,Bullet to the Head¬†,92,Walter Hill,Color,Action|Thriller,bar|bullet|corruption|detective|lawyer,English,USA,R,55000000,2012,1.85
+M1137,CS1236,Foodfight!¬†,91,Lawrence Kasanoff,Color,Action|Animation|Comedy|Family|Fantasy,femme fatale|food|pun|supermarket|troubled production,English,USA,PG,65000000,2012,
+M1155,CS1254,21 Jump Street¬†,109,Phil Lord,Color,Action|Comedy|Crime,narcotics|parody|police|remake|undercover cop,English,USA,R,42000000,2012,2.35
+M1162,CS1261,Here Comes the Boom¬†,105,Frank Coraci,Color,Action|Comedy|Sport,claim in title|high school|mixed martial arts|ultimate fighting championship|underdog,English,USA,PG,42000000,2012,1.85
+M1173,CS1272,One for the Money¬†,91,Julie Anne Robinson,Color,Action|Comedy|Crime|Romance|Thriller,bail bond|bounty hunter|jeans|shot in the butt|title directed by female,English,USA,PG-13,40000000,2012,2.35
+M1183,CS1282,Man on a Ledge¬†,102,Asger Leth,Color,Action|Crime|Thriller,detective|diamond|hotel|police|rooftop,English,USA,PG-13,42000000,2012,2.35
+M1476,CS1575,Premium Rush¬†,91,David Koepp,Color,Action|Crime|Thriller,chase|courier|delivery|envelope|police,English,USA,PG-13,35000000,2012,2.35
+M1517,CS1616,Stolen¬†,96,Simon West,Color,Action|Crime|Drama|Thriller,bank|money|presumed dead|rescue|thief,English,USA,R,35000000,2012,2.35
+M1535,CS1634,Safe¬†,94,Boaz Yakin,Color,Action|Crime|Thriller,bodyguard|gang war|russian|russian mafia|triad,English,USA,R,30000000,2012,2.35
+M1616,CS1715,Looper¬†,119,Rian Johnson,Color,Action|Crime|Drama|Sci-Fi|Thriller,chase|future|surprise ending|time loop|time travel,English,USA,R,30000000,2012,2.35
+M1910,CS2009,Contraband¬†,109,Baltasar Korm√°kur,Color,Action|Crime|Drama|Thriller,cocaine|contraband|drug lord|prison|smuggling,English,USA,R,25000000,2012,2.35
+M2121,CS2220,Hit and Run¬†,100,David Palmer,Color,Action|Comedy|Romance,gay cop|getaway driver|masturbation|penis|witness protection,English,USA,R,2000000,2012,2.35
+M2321,CS2420,The Cold Light of Day¬†,93,Mabrouk El Mechri,Color,Action|Thriller,driving a car down stairs|duct tape gag|held captive|murder of a police officer|sailing,English,USA,PG-13,20000000,2012,2.35
+M2698,CS2797,The Man with the Iron Fists¬†,107,RZA,Color,Action,blacksmith|box office flop|chop socky|critically bashed|village,English,USA,R,15000000,2012,2.35
+M2928,CS3027,Act of Valor¬†,110,Mike McCoy,Color,Action|Adventure|Drama|Thriller|War,mission|navy seal|terrorist|torture|valor,English,USA,R,12000000,2012,2.35
+M3177,CS3276,The Collection¬†,82,Marcus Dunstan,Color,Action|Horror|Thriller,booby trap|brainwashing|mercenary|serial killer|trap,English,USA,R,10000000,2012,2.35
+M4010,CS4109,The Watch¬†,102,Akiva Schaffer,Color,Action|Comedy|Sci-Fi,alien|escape|manager|neighborhood watch|ohio,English,USA,R,68000000,2012,2.35
+M4447,CS4546,Jack Reacher¬†,130,Christopher McQuarrie,Color,Action|Crime|Mystery|Thriller,coma|mysterious villain|police chase|shooting range|sniper,English,USA,PG-13,60000000,2012,2.35
+M4593,CS4692,Hardflip¬†,112,Johnny Remo,Color,Action|Drama,family relationships|loss of mother|san diego california|single mother|suicide attempt,English,USA,PG-13,1000000,2012,1.85
+M043,CS142,Green Lantern¬†,123,Martin Campbell,Color,Action|Adventure|Sci-Fi,autopsy|lantern|planet|ring|test pilot,English,USA,PG-13,200000000,2011,2.35
+M103,CS202,X-Men: First Class¬†,132,Matthew Vaughn,Color,Action|Adventure|Sci-Fi,cia|cia agent|mutant|nuclear war|professor,English,USA,PG-13,160000000,2011,2.35
+M1552,CS1651,"Big Mommas: Like Father, Like Son¬†",113,John Whitesell,Color,Action|Comedy|Crime,fbi agent|murder|performing arts school|scene during end credits|undercover,English,USA,PG-13,32000000,2011,2.35
+M565,CS664,Sucker Punch¬†,128,Zack Snyder,Color,Action|Fantasy,alternate reality|escape|girl gang|prostitution|samurai,English,USA,PG-13,82000000,2011,2.35
+M4135,CS4234,Never Back Down 2: The Beatdown¬†,90,Michael Jai White,Color,Action|Drama|Sport,bad cop|college|second part|sequel|wrestler,English,USA,R,3000000,2011,1.85
+M3930,CS4029,Red State¬†,88,Kevin Smith,Color,Action|Crime|Horror|Thriller,atf agent|ball gag|cult leader|pastor|pretending to be dead,English,USA,R,4000000,2011,1.85
+M408,CS507,Tower Heist¬†,104,Brett Ratner,Color,Action|Comedy|Crime,apartment|fbi|fraud|heist|manager,English,USA,PG-13,75000000,2011,2.35
+M1659,CS1758,Hanna¬†,111,Joe Wright,Color,Action|Drama|Thriller,assassin|female warrior|martial arts|playground|training,English,USA,PG-13,30000000,2011,2.35
+M1987,CS2086,Straw Dogs¬†,110,Rod Lurie,Color,Action|Drama|Thriller,gang rape|panties pulled down|rape|rape victim|sexual humiliation,English,USA,R,25000000,2011,2.35
+M1901,CS2000,The Grey¬†,117,Joe Carnahan,Color,Action|Adventure|Drama|Thriller,alaska|leadership|snow|survival|wilderness,English,USA,R,25000000,2011,2.35
+M1033,CS1132,Drive Angry¬†,104,Patrick Lussier,Color,Action|Fantasy|Thriller,baby|cult|oklahoma|sex scene|waitress,English,USA,R,50000000,2011,1.85
+M1825,CS1924,Spy Kids: All the Time in the World in 4D¬†,89,Robert Rodriguez,Color,Action|Adventure|Comedy|Family|Sci-Fi,2010s|3 dimensional|breath holding contest|child spy|spy,English,USA,PG,27000000,2011,1.85
+M346,CS445,Rise of the Planet of the Apes¬†,105,Rupert Wyatt,Color,Action|Drama|Sci-Fi|Thriller,alzheimer's disease|ape|chimpanzee|fire|when animals attack,English,USA,PG-13,93000000,2011,2.35
+M1727,CS1826,Machine Gun Preacher¬†,129,Marc Forster,Color,Action|Biography|Crime|Drama,africa|biker|church|orphanage|preacher,English,USA,R,30000000,2011,2.35
+M054,CS153,Transformers: Dark of the Moon¬†,154,Michael Bay,Color,Action|Adventure|Sci-Fi,autobot|decepticon|job interview|moon|spacecraft,English,USA,PG-13,195000000,2011,2.35
+M555,CS654,Immortals¬†,110,Tarsem Singh,Color,Action|Drama|Fantasy|Romance,burned alive|castration|olympus|torture|torture device,English,USA,R,75000000,2011,1.85
+M969,CS1068,I Am Number Four¬†,109,D.J. Caruso,Color,Action|Adventure|Sci-Fi|Thriller,based on young adult novel|good versus evil|guardian|human alien|ohio,English,USA,PG-13,60000000,2011,1.85
+M832,CS931,Ghost Rider: Spirit of Vengeance¬†,96,Mark Neveldine,Color,Action|Fantasy|Thriller,deal with the devil|devil|eastern europe|ghost rider|monk,English,USA,PG-13,57000000,2011,2.35
+M131,CS230,Thor¬†,115,Kenneth Branagh,Color,Action|Adventure|Fantasy,battle|marvel cinematic universe|scientist|thor|throne,English,USA,PG-13,150000000,2011,2.35
+M3688,CS3787,Salvation Boulevard¬†,96,George Ratliff,Color,Action|Comedy|Drama|Thriller,cross|doused with gasoline|pastor|security guard|shower,English,USA,R,9000000,2011,1.85
+M3650,CS3749,The Hit List¬†,90,William Kaufman,Color,Action|Thriller,die hard scenario|engineer|held at gunpoint|race against time|shot to death,English,USA,R,6000000,2011,1.85
+M140,CS239,Kung Fu Panda 2¬†,90,Jennifer Yuh Nelson,Color,Action|Adventure|Animation|Comedy|Family,china|kung fu|panda|peacock|tigress,English,USA,PG,150000000,2011,2.35
+M792,CS891,Priest¬†,87,Scott Stewart,Color,Action|Fantasy|Horror|Sci-Fi|Thriller,church|priest|sheriff|vampire|warrior,English,USA,PG-13,60000000,2011,2.35
+M144,CS243,Mars Needs Moms¬†,88,Simon Wells,Color,Action|Adventure|Animation|Comedy|Family|Sci-Fi,boy|martian|rescue|robot|sexism,English,USA,PG,150000000,2011,2.35
+M1136,CS1235,Johnny English Reborn¬†,101,Oliver Parker,Color,Action|Adventure|Comedy|Crime,assassin|chinese|conspiracy|gadget|premier,English,USA,PG,45000000,2011,2.35
+M156,CS255,Mission: Impossible - Ghost Protocol¬†,133,Brad Bird,Color,Action|Adventure|Thriller,dubai|kremlin|race against time|russian|terrorist,English,USA,PG-13,145000000,2011,2.35
+M1442,CS1541,In Time¬†,109,Andrew Niccol,Color,Action|Sci-Fi|Thriller,currency|future|murder|on the run|time,English,USA,PG-13,40000000,2011,2.35
+M019,CS118,Pirates of the Caribbean: On Stranger Tides¬†,136,Rob Marshall,Color,Action|Adventure|Fantasy,blackbeard|captain|pirate|revenge|soldier,English,USA,PG-13,250000000,2011,2.35
+M172,CS271,Captain America: The First Avenger¬†,124,Joe Johnston,Color,Action|Adventure|Sci-Fi,arctic|captain america|scientist|tesseract|war bond,English,USA,PG-13,140000000,2011,2.35
+M1470,CS1569,Abduction¬†,106,John Singleton,Color,Action|Mystery|Thriller,assassin|high school|on the run|teenager|website,English,USA,PG-13,35000000,2011,2.35
+M192,CS291,Puss in Boots¬†,90,Chris Miller,Color,Action|Adventure|Animation|Comedy|Family|Fantasy,betrayal|egg|friend|goose|hero,English,USA,PG,130000000,2011,2.35
+M4340,CS4439,The Legend of Hell's Gate: An American Conspiracy¬†,108,Tanner Beard,Color,Action|Adventure|History|Western,1800s|doc holliday|robbers|sheriff|texas,English,USA,PG-13,2000000,2011,
+M602,CS701,Battle Los Angeles¬†,116,Jonathan Liebesman,Color,Action|Sci-Fi,alien|extraterrestrial|invasion|marine|mission,English,USA,PG-13,70000000,2011,2.35
+M195,CS294,The Adventures of Tintin¬†,107,Steven Spielberg,Color,Action|Adventure|Family|Mystery,captain|morocco|ship|tintin|treasure,English,USA,PG,135000000,2011,2.35
+M212,CS311,Fast Five¬†,132,Justin Lin,Color,Action|Crime|Thriller,drug lord|drugs|federal agent|heist|police,English,USA,PG-13,125000000,2011,2.35
+M213,CS312,Sherlock Holmes: A Game of Shadows¬†,129,Guy Ritchie,Color,Action|Adventure|Crime|Mystery|Thriller,factory|gypsy|investigation|sherlock holmes|train,English,USA,PG-13,125000000,2011,2.35
+M260,CS359,The Green Hornet¬†,119,Michel Gondry,Color,Action|Comedy|Crime|Sci-Fi|Thriller,heir|kung fu|party|playboy|superhero,English,USA,PG-13,120000000,2011,2.35
+M1154,CS1253,The Mechanic¬†,93,Simon West,Color,Action|Crime|Thriller,apprentice|disobeying orders|gas station|hitman|nightclub,English,USA,R,40000000,2011,2.35
+M266,CS365,Real Steel¬†,127,Shawn Levy,Color,Action|Drama|Sci-Fi|Sport,arena|boxing|boxing movie|robot|robot battle,English,USA,PG-13,110000000,2011,2.35
+M1529,CS1628,The Darkest Hour¬†,89,Chris Gorak,Color,Action|Adventure|Horror|Sci-Fi|Thriller,alien|aurora borealis|critically bashed|killing an animal|nightclub,English,USA,PG-13,30000000,2011,2.35
+M306,CS405,The Tourist¬†,103,Florian Henckel von Donnersmarck,Color,Action|Romance|Thriller,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,English,USA,PG-13,100000000,2010,2.35
+M1069,CS1168,Jonah Hex¬†,81,Jimmy Hayward,Color,Action|Drama|Fantasy|Thriller|Western,confederate|death|independence day|military|terrorist,English,USA,PG-13,47000000,2010,2.35
+M1140,CS1239,The Bounty Hunter¬†,110,Andy Tennant,Color,Action|Comedy|Romance,bounty hunter|death|murder|police officer|reporter,English,USA,PG-13,40000000,2010,2.35
+M548,CS647,Killers¬†,100,Robert Luketic,Color,Action|Comedy|Romance|Thriller,hired killer|marriage|neighbor|on the run|store clerk,English,USA,PG-13,75000000,2010,2.35
+M1239,CS1338,Predators¬†,107,Nimr√≥d Antal,Color,Action|Adventure|Sci-Fi|Thriller,kicked in the face|martial arts|punched in the face|strong female character|woman punching a man,English,USA,R,40000000,2010,2.35
+M464,CS563,The Book of Eli¬†,118,Albert Hughes,Color,Action|Adventure|Drama|Thriller,blind|book|long take|post apocalypse|water,English,USA,R,80000000,2010,2.35
+M1376,CS1475,Cop Out¬†,107,Kevin Smith,Color,Action|Comedy|Crime,baseball card|detective|partner|thief|wedding,English,USA,R,37000000,2010,2.35
+M052,CS151,Prince of Persia: The Sands of Time¬†,116,Mike Newell,Color,Action|Adventure|Fantasy|Romance,alamut|dagger|king|persia|princess,English,USA,PG-13,200000000,2010,2.35
+M438,CS537,The Expendables¬†,113,Sylvester Stallone,Color,Action|Adventure|Thriller,action hero|assassination attempt|explosion|machine gun|rescue mission,English,USA,R,80000000,2010,2.35
+M432,CS531,Cats & Dogs: The Revenge of Kitty Galore¬†,82,Brad Peyton,Color,Action|Comedy|Family|Fantasy,cartoon on tv|cat|dog|kitty|special agent,English,USA,PG,85000000,2010,1.85
+M1550,CS1649,Takers¬†,107,John Luessenhop,Color,Action|Crime|Thriller,armored car|bank|falling out among thieves|heist|planning,English,USA,PG-13,20000000,2010,2.35
+M1564,CS1663,Repo Men¬†,119,Miguel Sapochnik,Color,Action|Crime|Sci-Fi|Thriller,artificial organ|best friend|enforcer|future|near future,English,USA,R,32000000,2010,2.35
+M425,CS524,Scott Pilgrim vs. the World¬†,112,Edgar Wright,Color,Action|Comedy|Fantasy|Romance,band|dating|high school|hipster|rock band,English,USA,PG-13,60000000,2010,1.85
+M041,CS140,TRON: Legacy¬†,125,Joseph Kosinski,Color,Action|Adventure|Sci-Fi,arcade|bridge|disappearance|escape|warrior,English,USA,PG,170000000,2010,2.35
+M1786,CS1885,The Spy Next Door¬†,94,Brian Levant,Color,Action|Comedy|Family,chinese|cia|single mother|spy|terrorist,English,USA,PG,28000000,2010,1.85
+M355,CS454,Unstoppable¬†,98,Tony Scott,Color,Action|Thriller,freight train|race against time|runaway train|train|train engineer,English,USA,PG-13,100000000,2010,2.35
+M1848,CS1947,Legion¬†,100,Scott Stewart,Color,Action|Fantasy|Horror,angel|diner|faith|human race|religious faith,English,USA,R,26000000,2010,2.35
+M313,CS412,Legend of the Guardians: The Owls of Ga'Hoole¬†,101,Zack Snyder,Color,Action|Adventure|Animation|Family|Fantasy,barn owl|escape|owl|ruler|soldier,English,USA,PG,80000000,2010,2.35
+M1950,CS2049,The Losers¬†,97,Sylvain White,Color,Action|Crime|Drama|Mystery|Thriller,hacking|hijacking|martial arts|revenge|special forces,English,USA,PG-13,25000000,2010,2.35
+M295,CS394,The Other Guys¬†,116,Adam McKay,Color,Action|Comedy|Crime,capitalist|detective|investigation|new york city|police,English,USA,PG-13,100000000,2010,2.35
+M2047,CS2146,Faster¬†,98,George Tillman Jr.,Color,Action|Crime|Drama|Thriller,gun|prison|reference to god|reference to jesus christ|vengeance,English,USA,R,24000000,2010,2.35
+M2161,CS2260,Jackass 3D¬†,101,Jeff Tremaine,Color,Action|Comedy|Documentary,full frontal male nudity|man wearing a jock strap|man wearing a thong|rear male nudity|stripped prison uniform,English,USA,R,20000000,2010,1.78
+M235,CS334,Knight and Day¬†,117,James Mangold,Color,Action|Comedy|Romance,chase|fbi|garage|spy|surveillance,English,USA,PG-13,117000000,2010,2.35
+M4855,CS4954,Death Calls¬†,90,Ken Del Conte,Color,Action|Adventure|Mystery|Romance|Thriller,murder|oppression|rebirth|reincarnation|revenge,English,USA,R,290000,2010,1.85
+M2341,CS2440,Dylan Dog: Dead of Night¬†,107,Kevin Munroe,Color,Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller,close up of eyes|monster|quirkiness|supernatural|vomiting,English,USA,PG-13,20000000,2010,2.35
+M214,CS313,Clash of the Titans¬†,106,Louis Leterrier,Color,Action|Adventure|Fantasy,famous line|hand to hand combat|kraken|rape|zeus,English,USA,PG-13,125000000,2010,2.35
+M202,CS301,Megamind¬†,95,Tom McGrath,Color,Action|Animation|Comedy|Family|Sci-Fi,battle|city|planet|prison|superhero,English,USA,PG,130000000,2010,2.35
+M2500,CS2599,TRON: Legacy¬†,125,Joseph Kosinski,Color,Action|Adventure|Sci-Fi,arcade|bridge|disappearance|escape|warrior,English,USA,PG,170000000,2010,2.35
+M193,CS292,Salt¬†,101,Phillip Noyce,Color,Action|Crime|Mystery|Thriller,cia|on the run|russian|russian spy|strong female lead,English,USA,PG-13,110000000,2010,2.35
+M2651,CS2750,Clash of the Titans¬†,106,Louis Leterrier,Color,Action|Adventure|Fantasy,famous line|hand to hand combat|kraken|rape|zeus,English,USA,PG-13,125000000,2010,2.35
+M023,CS122,Robin Hood¬†,156,Ridley Scott,Color,Action|Adventure|Drama|History,1190s|archer|england|king of england|robin hood,English,USA,PG-13,200000000,2010,2.35
+M2912,CS3011,Machete¬†,105,Ethan Maniquis,Color,Action|Crime|Thriller,machete|mexican|mexico|priest|texas,English,USA,R,10500000,2010,1.85
+M3141,CS3240,Skyline¬†,97,Colin Strause,Color,Action|Sci-Fi|Thriller,apartment|blue light|drawing|group of friends|light,English,USA,PG-13,10000000,2010,2.35
+M3168,CS3267,MacGruber¬†,95,Jorma Taccone,Color,Action|Comedy|Romance,colonel|lieutenant|nuclear warhead|team|washington d.c.,English,USA,R,10000000,2010,2.35
+M3171,CS3270,The Tourist¬†,103,Florian Henckel von Donnersmarck,Color,Action|Romance|Thriller,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,English,USA,PG-13,100000000,2010,2.35
+M141,CS240,The Last Airbender¬†,103,M. Night Shyamalan,Color,Action|Adventure|Family|Fantasy,avatar|fire|kingdom|tribe|water,English,USA,PG,150000000,2010,2.35
+M105,CS204,The Sorcerer's Apprentice¬†,109,Jon Turteltaub,Color,Action|Adventure|Family|Fantasy,chosen one|enchanted object|love|spell|training,English,USA,PG,150000000,2010,2.35
+M098,CS197,Inception¬†,148,Christopher Nolan,Color,Action|Adventure|Sci-Fi|Thriller,ambiguous ending|corporate espionage|dream|subconscious|thief,English,USA,PG-13,160000000,2010,2.35
+M081,CS180,Iron Man 2¬†,124,Jon Favreau,Color,Action|Adventure|Sci-Fi,hammer|military|monaco|revenge|tony stark,English,USA,PG-13,200000000,2010,2.35
+M4525,CS4624,The Dead Undead¬†,89,Matthew R. Anderson,Color,Action|Horror|Sci-Fi,flashback|immortality|rural setting|vampire|zombie,English,USA,R,1100000,2010,1.85
+M734,CS833,RED¬†,111,Robert Schwentke,Color,Action|Comedy|Crime|Thriller,cia|female assassin|interrogation|office cubicle|spy,English,USA,PG-13,58000000,2010,2.35
+M161,CS260,Star Trek¬†,127,J.J. Abrams,Color,Action|Adventure|Sci-Fi,box office hit|future|lifted by the throat|star trek|vulcan,English,USA,PG-13,150000000,2009,2.35
+M1433,CS1532,Underworld: Rise of the Lycans¬†,92,Patrick Tatopoulos,Color,Action|Adventure|Fantasy|Sci-Fi|Thriller,battle|slave|vampire|warrior|werewolf,English,USA,R,35000000,2009,2.35
+M367,CS466,Sherlock Holmes¬†,128,Guy Ritchie,Color,Action|Adventure|Crime|Mystery|Thriller,black magic|bridge construction|professor moriarty|scotland yard inspector|sherlock holmes,English,USA,PG-13,90000000,2009,1.85
+M1668,CS1767,9¬†,79,Shane Acker,Color,Action|Adventure|Animation|Drama|Mystery|Sci-Fi|Thriller,hope|key|machine|number|rag doll,English,USA,PG-13,30000000,2009,1.85
+M3387,CS3486,The Boondock Saints II: All Saints Day¬†,138,Troy Duffy,Color,Action|Crime|Thriller,final showdown|ireland|justice|priest|sheep,English,USA,R,8000000,2009,2.35
+M078,CS177,G.I. Joe: The Rise of Cobra¬†,118,Stephen Sommers,Color,Action|Adventure|Sci-Fi|Thriller,cobra|gi joe|snake|train|warhead,English,USA,PG-13,175000000,2009,2.35
+M993,CS1092,Ninja Assassin¬†,99,James McTeigue,Color,Action|Crime|Thriller,critically bashed|kung fu|martial artist|martial arts|ninja,English,USA,R,40000000,2009,2.35
+M492,CS591,Surrogates¬†,89,Jonathan Mostow,Color,Action|Sci-Fi|Thriller,android|fbi agent|future|murder|robot,English,USA,PG-13,80000000,2009,2.35
+M359,CS458,Ice Age: Dawn of the Dinosaurs¬†,94,Carlos Saldanha,Color,Action|Adventure|Animation|Comedy|Family,egg|lost world|rescue|squirrel|weasel,English,USA,PG,90000000,2009,1.85
+M133,CS232,G-Force¬†,88,Hoyt Yeatman,Color,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,fbi director|guinea pig|household appliance|secret agent|talking mouse,English,USA,PG,150000000,2009,2.35
+M2275,CS2374,Crank: High Voltage¬†,96,Mark Neveldine,Color,Action|Crime|Sci-Fi|Thriller,artificial heart|heart|horse penis|prostitute|stripper,English,USA,R,20000000,2009,1.85
+M1937,CS2036,Dance Flick¬†,88,Damien Dante Wayans,Color,Action|Comedy|Music,african american|dance|overalls|parody|rap,English,USA,PG-13,25000000,2009,1.85
+M1305,CS1404,Cirque du Freak: The Vampire's Assistant¬†,109,Paul Weitz,Color,Action|Adventure|Fantasy|Thriller,antidote|based on young adult novel|flyer|spider|vampire,English,USA,PG-13,40000000,2009,2.35
+M061,CS160,2012¬†,158,Roland Emmerich,Color,Action|Adventure|Sci-Fi,ark|catastrophe|geologist|president|writer,English,USA,PG-13,200000000,2009,2.35
+M124,CS223,X-Men Origins: Wolverine¬†,119,Gavin Hood,Color,Action|Adventure|Fantasy|Sci-Fi|Thriller,army|civil war|claw fight|commando|wolverine the character,English,USA,PG-13,150000000,2009,2.35
+M037,CS136,Transformers: Revenge of the Fallen¬†,150,Michael Bay,Color,Action|Adventure|Sci-Fi,autobot|decepticon|machine|sun|symbol,English,USA,PG-13,200000000,2009,2.35
+M1006,CS1105,The International¬†,118,Tom Tykwer,Color,Action|Crime|Drama|Mystery|Thriller,bank|chase|district attorney|interpol|murder,English,USA,R,50000000,2009,2.35
+M2270,CS2369,Armored¬†,88,Nimr√≥d Antal,Color,Action|Crime|Thriller,armored truck|blood splatter|die hard scenario|guard|heist,English,USA,PG-13,27000000,2009,2.35
+M045,CS144,Terminator Salvation¬†,118,McG,Color,Action|Adventure|Sci-Fi,death row|future|machine|rescue|skynet,English,USA,PG-13,200000000,2009,2.35
+M4143,CS4242,Chicago Overcoat¬†,94,Brian Caunter,Color,Action|Adventure|Crime|Drama,detective|killer|police|shootout|thong,English,USA,R,3000000,2009,1.78
+M1027,CS1126,Gamer¬†,95,Mark Neveldine,Color,Action|Sci-Fi|Thriller,battle|convict|death|mind control|role playing,English,USA,R,50000000,2009,1.85
+M4076,CS4175,Next Day Air¬†,84,Benny Boom,Color,Action|Comedy|Crime,cocaine|package|slow motion scene|topless female nudity|wrong address,English,USA,R,3000000,2009,1.85
+M1703,CS1802,Dragonball: Evolution¬†,100,James Wong,Color,Action|Adventure|Fantasy|Sci-Fi|Thriller,bad|dragon|grandfather|orb|warrior,English,USA,PG,45000000,2009,2.35
+M293,CS392,The Taking of Pelham 1 2 3¬†,106,Tony Scott,Color,Action|Crime|Thriller,hijack|hostage|ransom|subway|train,English,USA,R,100000000,2009,2.35
+M4842,CS4941,Royal Kill¬†,90,Babar Ahmed,Color,Action|Thriller,assassin|female assassin|kingdom|martial arts|mission,English,USA,PG-13,350000,2009,
+M960,CS1059,Race to Witch Mountain¬†,98,Andy Fickman,Color,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,alien|military|mountain|spacecraft|ufo,English,USA,PG,65000000,2009,2.35
+M4877,CS4976,Ink¬†,107,Jamin Winans,Color,Action|Drama|Fantasy|Sci-Fi,dream|self destructiveness|storyteller|time paradox|workaholic,English,USA,,,2009,1.78
+M2282,CS2381,12 Rounds¬†,108,Renny Harlin,Color,Action|Crime|Thriller,2000s|detective|sadist|terrorism|terrorist,English,USA,PG-13,22000000,2009,2.35
+M1833,CS1932,Paul Blart: Mall Cop¬†,91,Steve Carr,Color,Action|Comedy|Crime,cell phone|hostage|mall|security guard|text messaging,English,USA,PG,26000000,2009,1.85
+M1490,CS1589,Whiteout¬†,101,Dominic Sena,Color,Action|Crime|Mystery|Thriller,antarctica|geologist|investigation|u.s. marshal|winter,English,USA,R,35000000,2009,2.35
+M001,CS100,Avatar¬†,178,James Cameron,Color,Action|Adventure|Fantasy|Sci-Fi,avatar|future|marine|native|paraplegic,English,USA,PG-13,237000000,2009,1.78
+M069,CS168,Monsters vs. Aliens¬†,94,Rob Letterman,Color,Action|Adventure|Animation|Comedy|Family|Sci-Fi,alien|alien invasion|alien space craft|giant|giantess,English,USA,PG,175000000,2009,2.35
+M3253,CS3352,The Devil's Tomb¬†,90,Jason Connery,Color,Action|Horror|Sci-Fi,desert|mercenary|priest|scientist|war veteran,English,USA,R,10000000,2009,1.85
+M166,CS265,Watchmen¬†,215,Zack Snyder,Color,Action|Drama|Mystery|Sci-Fi,conspiracy|cynicism|false promise of the american dream|male full frontal nudity|male nudity,English,USA,R,130000000,2009,2.35
+M2226,CS2325,Street Kings¬†,109,David Ayer,Color,Action|Crime|Drama|Thriller,captain|lapd|murder|undercover cop|violence,English,USA,R,20000000,2008,2.35
+M067,CS166,The Dark Knight¬†,152,Christopher Nolan,Color,Action|Crime|Drama|Thriller,based on comic book|dc comics|psychopath|star died before release|urban setting,English,USA,PG-13,185000000,2008,2.35
+M233,CS332,Speed Racer¬†,135,Lana Wachowski,Color,Action|Family|Sport,based on anime|based on cartoon|gadget car|racer|speed,English,USA,PG,120000000,2008,2.35
+M1129,CS1228,Miracle at St. Anna¬†,160,Spike Lee,Color,Action|Crime|Drama|Thriller|War,boy|german soldier|partisan|trapped|village,English,USA,R,45000000,2008,2.35
+M785,CS884,Righteous Kill¬†,101,Jon Avnet,Color,Action|Crime|Drama|Mystery|Thriller,blood splatter|execution|new york city|nypd|serial killer,English,USA,R,60000000,2008,2.35
+M865,CS964,The Forbidden Kingdom¬†,104,Rob Minkoff,Color,Action|Adventure|Fantasy,monkey king|staff|teenager|urination|warrior,English,USA,PG-13,55000000,2008,2.35
+M433,CS532,Jumper¬†,88,Doug Liman,Color,Action|Adventure|Sci-Fi|Thriller,bank|based on novel|ice|teleportation|vault,English,USA,PG-13,85000000,2008,2.35
+M434,CS533,Hellboy II: The Golden Army¬†,120,Guillermo del Toro,Color,Action|Adventure|Fantasy|Horror|Sci-Fi,creature|elf|prince|rebellion|superhero,English,USA,PG-13,85000000,2008,1.85
+M1473,CS1572,Superhero Movie¬†,82,Craig Mazin,Color,Action|Comedy|Sci-Fi|Thriller,dragonfly|hero|high school|soaking wet|supervillian origin,English,USA,PG-13,35000000,2008,1.85
+M185,CS284,Kung Fu Panda¬†,92,Mark Osborne,Color,Action|Adventure|Animation|Comedy|Family,kung fu|kung fu master|master|panda|snow leopard,English,USA,PG,130000000,2008,2.35
+M177,CS276,The Incredible Hulk¬†,135,Louis Leterrier,Color,Action|Adventure|Sci-Fi,antidote|cure|hulk|marvel cinematic universe|opening action scene,English,USA,PG-13,150000000,2008,2.35
+M451,CS550,Get Smart¬†,110,Peter Segal,Color,Action|Adventure|Comedy,airplane|misunderstanding|obese woman|overweight woman|spy,English,USA,PG-13,80000000,2008,1.85
+M1078,CS1177,Journey to the Center of the Earth¬†,93,Eric Brevig,Color,Action|Adventure|Family|Fantasy|Sci-Fi,cave|lost world|missing brother|mountain|venus flytrap,English,USA,PG,45000000,2008,1.85
+M680,CS779,Death Race¬†,111,Paul W.S. Anderson,Color,Action|Sci-Fi|Thriller,armored car|car|murder|prison|warden,English,USA,R,45000000,2008,2.35
+M3218,CS3317,"War, Inc.¬†",107,Joshua Seftel,Color,Action|Comedy|Thriller,assassin|corporation|pop star|reporter|satire,English,USA,R,10000000,2008,1.78
+M462,CS561,Eagle Eye¬†,118,D.J. Caruso,Color,Action|Mystery|Thriller,audio surveillance|death|pentagon|technology|twin brother,English,USA,PG-13,80000000,2008,2.35
+M3542,CS3641,Stargate: The Ark of Truth¬†,97,Robert C. Cooper,Color,Action|Adventure|Drama|Fantasy|Sci-Fi,2000s|evil god|space opera|stargate|wormhole,English,USA,,,2008,1.78
+M528,CS627,Wanted¬†,110,Timur Bekmambetov,Color,Action|Crime|Fantasy|Thriller,assassin|bobble head doll|femme fatale|rejuvenation|strong female lead,English,USA,R,75000000,2008,2.35
+M122,CS221,Madagascar: Escape 2 Africa¬†,89,Eric Darnell,Color,Action|Adventure|Animation|Comedy|Family,africa|madagascar|new york city|sequel|zoo,English,USA,PG,150000000,2008,1.85
+M117,CS216,Hancock¬†,102,Peter Berg,Color,Action|Drama,bully comeuppance|destruction|prison|superhero|tough girl,English,USA,PG-13,150000000,2008,2.35
+M017,CS116,The Chronicles of Narnia: Prince Caspian¬†,150,Andrew Adamson,Color,Action|Adventure|Family|Fantasy,brother brother relationship|brother sister relationship|good versus evil|king|narnia,English,USA,PG,225000000,2008,2.35
+M642,CS741,Body of Lies¬†,128,Ridley Scott,Color,Action|Drama|Thriller,cia|jordan|middle east|spy|terrorist,English,USA,R,70000000,2008,2.35
+M055,CS154,Indiana Jones and the Kingdom of the Crystal Skull¬†,122,Steven Spielberg,Color,Action|Adventure|Fantasy,cult figure|femme fatale|indiana jones|unsubtitled foreign language|year 1957,English,USA,PG-13,185000000,2008,2.35
+M569,CS668,Fool's Gold¬†,112,Andy Tennant,Color,Action|Adventure|Comedy|Romance|Thriller,debt|rapper|treasure|treasure hunter|yacht,English,USA,PG-13,70000000,2008,2.35
+M364,CS463,Tropic Thunder¬†,121,Ben Stiller,Color,Action|Comedy,film director|parody|spoof|vietnam|written and directed by cast member,English,USA,R,92000000,2008,2.35
+M1839,CS1938,Pineapple Express¬†,117,David Gordon Green,Color,Action|Comedy|Crime,murder|paranoia|process server|roach|stoner,English,USA,R,27000000,2008,2.35
+M073,CS172,The Mummy: Tomb of the Dragon Emperor¬†,112,Rob Cohen,Color,Action|Adventure|Fantasy|Horror|Thriller,army|china|emperor|mummy|shangri la,English,USA,PG-13,145000000,2008,2.35
+M070,CS169,Iron Man¬†,126,Jon Favreau,Color,Action|Adventure|Sci-Fi,afghanistan|billionaire|inventor|playboy|u.s. air force,English,USA,PG-13,140000000,2008,2.35
+M1883,CS1982,Cloverfield¬†,85,Matt Reeves,Color,Action|Adventure|Horror|Sci-Fi,brooklyn new york city|found footage|night vision|statue of liberty new york city|subway tunnel,English,USA,PG-13,25000000,2008,1.85
+M372,CS471,You Don't Mess with the Zohan¬†,113,Dennis Dugan,Color,Action|Comedy,hair stylist|jew|landlord|muslim|palestinian,English,USA,PG-13,90000000,2008,1.85
+M807,CS906,The Spirit¬†,103,Frank Miller,Color,Action|Crime|Fantasy|Thriller,female star appears nude|pants falling down|samurai|white rat|woman in a towel,English,USA,PG-13,60000000,2008,2.35
+M2142,CS2241,Never Back Down¬†,110,Jeff Wadlow,Color,Action|Drama|Sport,club|fight|fighting|high school|mixed martial arts,English,USA,PG-13,20000000,2008,2.35
+M1131,CS1230,Bangkok Dangerous¬†,99,Danny Pang,Color,Action|Crime|Thriller,deaf|hitman|nightclub|pickpocket|rules of profession,English,USA,R,40000000,2008,1.85
+M1495,CS1594,Punisher: War Zone¬†,103,Lexi Alexander,Color,Action|Crime|Drama|Thriller,gun fu|plastic surgery|psychopath|undercover|vigilante,English,USA,R,35000000,2008,2.35
+M223,CS322,Fantastic 4: Rise of the Silver Surfer¬†,92,Tim Story,Color,Action|Adventure|Sci-Fi|Thriller,fantastic four|space|strong female character|strong female lead|superheroine,English,USA,PG,130000000,2007,2.35
+M270,CS369,Live Free or Die Hard¬†,129,Len Wiseman,Color,Action|Adventure|Thriller,fbi|hacker|independence day|police|terrorist,English,USA,PG-13,110000000,2007,2.35
+M2294,CS2393,Death Sentence¬†,111,James Wan,Color,Action|Crime|Thriller,blood|death|gang|murder|revenge,English,USA,R,20000000,2007,2.35
+M225,CS324,Ghost Rider¬†,123,Mark Steven Johnson,Color,Action|Fantasy|Thriller,blackheart|devil|father|ghost|mephistopheles,English,USA,PG-13,110000000,2007,2.35
+M2298,CS2397,Code Name: The Cleaner¬†,91,Les Mayfield,Color,Action|Comedy|Crime,comic violence|hand to hand combat|kung fu|talking to self in mirror|violence,English,USA,PG-13,20000000,2007,1.85
+M184,CS283,The Bourne Ultimatum¬†,115,Paul Greengrass,Color,Action|Mystery|Thriller,action hero|cia|dark past|flashback|memory,English,USA,PG-13,110000000,2007,2.35
+M765,CS864,Shooter¬†,124,Antoine Fuqua,Color,Action|Crime|Drama|Mystery|Thriller,colonel|ethiopia|marksman|on the run|rangefinder,English,USA,R,61000000,2007,2.35
+M909,CS1008,Grindhouse¬†,189,Robert Rodriguez,Color,Action|Horror|Thriller,anthropophagus|blood and gore|double feature|real twins playing twins|zombie,English,USA,R,53000000,2007,2.35
+M007,CS106,Spider-Man 3¬†,156,Sam Raimi,Color,Action|Adventure|Romance,sandman|spider man|symbiote|venom|villain,English,USA,PG-13,258000000,2007,2.35
+M1952,CS2051,War¬†,103,Philip G. Atwell,Color,Action|Crime|Thriller,assassin|betrayal|fbi|fbi agent|yakuza,English,USA,R,25000000,2007,2.35
+M113,CS212,Transformers¬†,144,Michael Bay,Color,Action|Adventure|Sci-Fi,alien contact|autobot|decepticon|robot vs. robot|teenage hero,English,USA,PG-13,150000000,2007,2.35
+M060,CS159,Rush Hour 3¬†,91,Brett Ratner,Color,Action|Comedy|Crime|Thriller,ambassador|assassination|chinese|french|triad,English,USA,PG-13,140000000,2007,2.35
+M4677,CS4776,Aqua Teen Hunger Force Colon Movie Film for Theaters¬†,86,Matt Maiellaro,Color,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,based on cult tv series|critically acclaimed|exercise machine|midnight movie|robot,English,USA,R,750000,2007,1.85
+M4327,CS4426,Rockaway¬†,90,Jeff Crook,Color,Action|Crime|Drama|Thriller,one word title,English,USA,R,2000000,2007,2.35
+M1251,CS1350,Aliens vs. Predator: Requiem¬†,102,Colin Strause,Color,Action|Horror|Sci-Fi|Thriller,alien|escape|hunting|hybrid|predator,English,USA,R,40000000,2007,2.35
+M3462,CS3561,Spider-Man 3¬†,156,Sam Raimi,Color,Action|Adventure|Romance,sandman|spider man|symbiote|venom|villain,English,USA,PG-13,258000000,2007,2.35
+M002,CS101,Pirates of the Caribbean: At World's End¬†,169,Gore Verbinski,Color,Action|Adventure|Fantasy,goddess|marriage ceremony|marriage proposal|pirate|singapore,English,USA,PG-13,300000000,2007,2.35
+M3425,CS3524,The Death and Life of Bobby Z¬†,97,John Herzfeld,Color,Action|Crime|Thriller,drug lord|on the run|prison|vegan|vegetarian,English,USA,R,22000000,2007,2.35
+M571,CS670,The Kingdom¬†,110,Peter Berg,Color,Action|Drama|Thriller,al qaeda|bomb making|fbi|saudi arabia|stabbed in the crotch,English,USA,R,70000000,2007,2.35
+M154,CS253,Beowulf¬†,115,Robert Zemeckis,Color,Action|Adventure|Animation|Fantasy,creature|demon|king|reward|warrior,English,USA,PG-13,150000000,2007,2.35
+M714,CS813,Wild Hogs¬†,100,Walt Becker,Color,Action|Adventure|Comedy,biker gang|friend|motorcycle|new mexico|road trip,English,USA,PG-13,,2007,2.35
