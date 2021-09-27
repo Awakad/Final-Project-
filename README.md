@@ -1,5 +1,5 @@
-# Final-Project
-
+# Film Industry Boxoffice
+- Analyzing the key factors in film production that determine box office performance for the final project of the UofT Data Analytics Bootcamp 2021
 ## The Team 
 
 - Deng T.Deng
@@ -11,12 +11,71 @@
 
 Project topic is Predicting Movie Revenues
 
+The goal of this project is to implement a machine learning model to determine key factors in the film production industry and forecast the gross income of future productions based on the production team's portfolio, such as the director and cast, social media popularity of the cast, duration of the production and other important elements in film creation. We proceeded by cleaning the [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) that contains movies from 1916 to 2016 and using  to analyse datasets.
+
 ## Reason For The Project Topic
 
-In a world, where movies made an estimated of over $41.7 billion in 2018 , the film industry is more popular than ever. But what movies make the most money and what are the factor responsible for this ? How much does a director matter? Or the budget? Or the actor?
+In a world, where movies made an estimated of over $41.7 billion in 2018 , the film industry is more popular than ever. But what movies make the most money and what are the factor responsible for this?
+
+What we hope to provide insights on:
+> - How much does the director's portfolio play a difference?
+> - Do projects with higher budgets promise higher revenues?
+> - Does the popularity of the cast on social media impact the popularity of the film?
 
 ## Data Source: 
-[Box Office Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction/data?select=sample_submission.csv) [IMDB database](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+- [Box Office Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction/data?select=sample_submission.csv)
+- [IMDB database](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+
+## Database
+
+### Schema
+Postgres SQL was used to store and classify the Movie’s data in [PH-Movies](https://github.com/Awakad/Final-Project-Sirt/blob/main/Queries/PH-Movies-Backup.sql). A total of six datasets were uploaded:
+```
+- movie_info.csv
+- rating.csv
+- movie-social_media.csv
+- boxoffice.csv
+- cast_info.csv
+- cast_social_media.csv
+```
+- QuickDB Schema
+<img src="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/movie_data_schema.png" width="500" height="400">
+
+
+### JOINs
+Using various JOIN clauses we created a snapshot of the Top 20 Highest Gross Movies. 
+`top_20_highest_growth` combines the movie information from `movie_info` by utilizing a LEFT JOIN and adds the casting information from `cast_info` by utilizing the INNER JOIN command.
+
+```sql
+-- Top 20 highest Gross Movies
+SELECT b.movie_id,
+b.budget,
+b.gross,
+mi.movie_title,
+mi.duration,
+mi.director_name,
+mi.genres,
+mi.country,
+mi.content_rating,
+mi.title_year,
+mi.cast_set_num,
+ci.actor_1_name
+INTO top_20_highest_growth
+FROM boxoffice as b
+LEFT JOIN movie_info as mi
+ON b.movie_id = mi.movie_id
+INNER JOIN cast_info as ci
+ON ci.cast_set_num = mi.cast_set_num
+WHERE gross IS NOT NULL
+ORDER BY gross DESC
+LIMIT 20;
+```
+### Amazon RDS
+Lastly, the Amazon RDS was used to link the internal Postgres SQL on the cloud and allow for the scaling of the database to provide access to all team members for future updates and modifications. 
+
+## Dashboard
+
+
 
 ## Machine Learning Model
 
