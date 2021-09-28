@@ -90,7 +90,7 @@ The dataset is available in a csv file. A Random Forest and Deep Neural Network 
 
 To train the model we analyzed, cleaned, and extracted the features from the data. Furthermore we analyzed the model's accuracy by plotting the result, and taking into account our errors.
 
-The following libraries were used in the machine learningm odel:
+The following libraries were used in the machine learningm model:
 - Python
 - Scikit-learn
 
