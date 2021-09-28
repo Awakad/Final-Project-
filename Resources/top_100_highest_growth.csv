@@ -1,0 +1,101 @@
+movie_id,budget,gross,movie_title,duration,director_name,genres,country,content_rating,title_year,cast_set_num,actor_1_name
+M001,237000000,760505847,Avatar¬†,178,James Cameron,Action|Adventure|Fantasy|Sci-Fi,USA,PG-13,2009,CS100,CCH Pounder
+M027,200000000,658672302,Titanic¬†,194,James Cameron,Drama|Romance,USA,PG-13,1997,CS126,Leonardo DiCaprio
+M030,150000000,652177271,Jurassic World¬†,124,Colin Trevorrow,Action|Adventure|Sci-Fi|Thriller,USA,PG-13,2015,CS129,Bryce Dallas Howard
+M795,220000000,623279547,The Avengers¬†,173,Joss Whedon,Action|Adventure|Sci-Fi,USA,PG-13,2012,CS894,Chris Hemsworth
+M018,220000000,623279547,The Avengers¬†,173,Joss Whedon,Action|Adventure|Sci-Fi,USA,PG-13,2012,CS117,Chris Hemsworth
+M067,185000000,533316061,The Dark Knight¬†,152,Christopher Nolan,Action|Crime|Drama|Thriller,USA,PG-13,2008,CS166,Christian Bale
+M241,115000000,474544677,Star Wars: Episode I - The Phantom Menace¬†,136,George Lucas,Action|Adventure|Fantasy|Sci-Fi,USA,PG,1999,CS340,Natalie Portman
+M3025,11000000,460935665,Star Wars: Episode IV - A New Hope¬†,125,George Lucas,Action|Adventure|Fantasy|Sci-Fi,USA,PG,1977,CS3124,Harrison Ford
+M009,250000000,458991599,Avengers: Age of Ultron¬†,141,Joss Whedon,Action|Adventure|Sci-Fi,USA,PG-13,2015,CS108,Chris Hemsworth
+M004,250000000,448130642,The Dark Knight Rises¬†,164,Christopher Nolan,Action|Thriller,USA,PG-13,2012,CS103,Tom Hardy
+M583,150000000,436471036,Shrek 2¬†,93,Andrew Adamson,Adventure|Animation|Comedy|Family|Fantasy|Romance,USA,PG,2004,CS682,Rupert Everett
+M3081,10500000,434949459,E.T. the Extra-Terrestrial¬†,120,Steven Spielberg,Family|Sci-Fi,USA,PG,1982,CS3180,Henry Thomas
+M187,130000000,424645577,The Hunger Games: Catching Fire¬†,146,Francis Lawrence,Adventure|Sci-Fi|Thriller,USA,PG-13,2013,CS286,Jennifer Lawrence
+M014,225000000,423032628,Pirates of the Caribbean: Dead Man's Chest¬†,151,Gore Verbinski,Action|Adventure|Fantasy,USA,PG-13,2006,CS113,Johnny Depp
+M510,45000000,422783777,The Lion King¬†,73,Roger Allers,Adventure|Animation|Drama|Family|Musical,USA,G,1994,CS609,Matthew Broderick
+M044,200000000,414984497,Toy Story 3¬†,103,Lee Unkrich,Adventure|Animation|Comedy|Family|Fantasy,USA,G,2010,CS143,Tom Hanks
+M033,200000000,408992272,Iron Man 3¬†,195,Shane Black,Action|Adventure|Sci-Fi,USA,PG-13,2013,CS132,Robert Downey Jr.
+M440,78000000,407999255,The Hunger Games¬†,142,Gary Ross,Adventure|Drama|Sci-Fi|Thriller,USA,PG-13,2012,CS539,Jennifer Lawrence
+M028,250000000,407197282,Captain America: Civil War¬†,147,Anthony Russo,Action|Adventure|Sci-Fi,USA,PG-13,2016,CS127,Robert Downey Jr.
+M162,139000000,403706375,Spider-Man¬†,121,Sam Raimi,Action|Adventure|Fantasy|Romance,USA,PG-13,2002,CS261,J.K. Simmons
+M037,200000000,402076689,Transformers: Revenge of the Fallen¬†,150,Michael Bay,Action|Adventure|Sci-Fi,USA,PG-13,2009,CS136,Glenn Morshower
+M126,150000000,400736600,Frozen¬†,102,Chris Buck,Adventure|Animation|Comedy|Family|Fantasy|Musical,USA,PG,2013,CS225,Josh Gad
+M339,94000000,380838870,Finding Nemo¬†,100,Andrew Stanton,Adventure|Animation|Comedy|Family,USA,G,2003,CS438,Alexander Gould
+M237,113000000,380262555,Star Wars: Episode III - Revenge of the Sith¬†,140,George Lucas,Action|Adventure|Fantasy|Sci-Fi,USA,PG-13,2005,CS336,Natalie Portman
+M340,94000000,377019252,The Lord of the Rings: The Return of the King¬†,192,Peter Jackson,Action|Adventure|Drama|Fantasy,USA,PG-13,2003,CS439,Orlando Bloom
+M032,200000000,373377893,Spider-Man 2¬†,135,Sam Raimi,Action|Adventure|Fantasy|Romance,USA,PG-13,2004,CS131,J.K. Simmons
+M522,76000000,368049635,Despicable Me 2¬†,98,Pierre Coffin,Animation|Comedy|Family|Sci-Fi,USA,PG,2013,CS621,Steve Carell
+M813,58000000,363024263,Deadpool¬†,108,Tim Miller,Action|Adventure|Comedy|Romance|Sci-Fi,USA,R,2016,CS912,Ryan Reynolds
+M1806,175000000,362645141,The Jungle Book¬†,106,Jon Favreau,Adventure|Drama|Family|Fantasy,UK,PG,2016,CS1905,Scarlett Johansson
+M080,175000000,362645141,The Jungle Book¬†,106,Jon Favreau,Adventure|Drama|Family|Fantasy,UK,PG,2016,CS179,Scarlett Johansson
+M698,63000000,356784000,Jurassic Park¬†,127,Steven Spielberg,Adventure|Sci-Fi|Thriller,USA,PG-13,1993,CS797,Wayne Knight
+M079,175000000,356454367,Inside Out¬†,95,Pete Docter,Adventure|Animation|Comedy|Drama|Family|Fantasy,USA,PG,2015,CS178,Amy Poehler
+M054,195000000,352358779,Transformers: Dark of the Moon¬†,154,Michael Bay,Action|Adventure|Sci-Fi,USA,PG-13,2011,CS153,Glenn Morshower
+M815,58800000,350123553,American Sniper¬†,133,Clint Eastwood,Action|Biography|Drama|History|Thriller|War,USA,R,2014,CS914,Bradley Cooper
+M046,190000000,350034110,Furious 7¬†,140,James Wan,Action|Crime|Thriller,USA,PG-13,2015,CS145,Jason Statham
+M341,94000000,340478898,The Lord of the Rings: The Two Towers¬†,172,Peter Jackson,Action|Adventure|Drama|Fantasy,USA,PG-13,2002,CS440,Christopher Lee
+M208,125000000,337103873,The Hunger Games: Mockingjay - Part 1¬†,123,Francis Lawrence,Adventure|Sci-Fi|Thriller,USA,PG-13,2014,CS307,Jennifer Lawrence
+M3462,258000000,336530303,Spider-Man 3¬†,156,Sam Raimi,Action|Adventure|Romance,USA,PG-13,2007,CS3561,J.K. Simmons
+M007,258000000,336530303,Spider-Man 3¬†,156,Sam Raimi,Action|Adventure|Romance,USA,PG-13,2007,CS106,J.K. Simmons
+M564,74000000,336029560,Minions¬†,91,Kyle Balda,Action|Animation|Comedy|Family|Sci-Fi,USA,PG,2015,CS663,Steve Carell
+M4129,200000000,334185206,Alice in Wonderland¬†,108,Tim Burton,Adventure|Family|Fantasy,USA,PG,2010,CS4228,Johnny Depp
+M034,200000000,334185206,Alice in Wonderland¬†,108,Tim Burton,Adventure|Family|Fantasy,USA,PG,2010,CS133,Johnny Depp
+M096,170000000,333130696,Guardians of the Galaxy¬†,121,James Gunn,Action|Adventure|Sci-Fi,USA,PG-13,2014,CS195,Bradley Cooper
+M011,250000000,330249062,Batman v Superman: Dawn of Justice¬†,183,Zack Snyder,Action|Adventure|Sci-Fi,USA,PG-13,2016,CS110,Henry Cavill
+M837,55000000,329691196,Forrest Gump¬†,142,Robert Zemeckis,Comedy|Drama,USA,PG-13,1994,CS936,Tom Hanks
+M520,75000000,323505540,The Secret Life of Pets¬†,87,Yarrow Cheney,Animation|Comedy|Family,Japan,PG,2016,CS619,Steve Coogan
+M108,160000000,320706665,Shrek the Third¬†,93,Chris Miller,Adventure|Animation|Comedy|Family|Fantasy,USA,PG,2007,CS207,Justin Timberlake
+M113,150000000,318759914,Transformers¬†,144,Michael Bay,Action|Adventure|Sci-Fi,USA,PG-13,2007,CS212,Zack Ward
+M070,140000000,318298180,Iron Man¬†,126,Jon Favreau,Action|Adventure|Sci-Fi,USA,PG-13,2008,CS169,Robert Downey Jr.
+M203,125000000,317557891,Harry Potter and the Sorcerer's Stone¬†,159,Chris Columbus,Adventure|Family|Fantasy,UK,PG,2001,CS302,Daniel Radcliffe
+M055,185000000,317011114,Indiana Jones and the Kingdom of the Crystal Skull¬†,122,Steven Spielberg,Action|Adventure|Fantasy,USA,PG-13,2008,CS154,Harrison Ford
+M271,93000000,313837577,The Lord of the Rings: The Fellowship of the Ring¬†,171,Peter Jackson,Action|Adventure|Drama|Fantasy,New Zealand,PG-13,2001,CS370,Christopher Lee
+M081,200000000,312057433,Iron Man 2¬†,124,Jon Favreau,Action|Adventure|Sci-Fi,USA,PG-13,2010,CS180,Robert Downey Jr.
+M238,115000000,310675583,Star Wars: Episode II - Attack of the Clones¬†,142,George Lucas,Action|Adventure|Fantasy|Sci-Fi,USA,PG,2002,CS337,Natalie Portman
+M002,300000000,309404152,Pirates of the Caribbean: At World's End¬†,169,Gore Verbinski,Action|Adventure|Fantasy,USA,PG-13,2007,CS101,Johnny Depp
+M1537,32500000,309125409,Star Wars: Episode VI - Return of the Jedi¬†,134,Richard Marquand,Action|Adventure|Fantasy|Sci-Fi,USA,PG,1983,CS1636,Harrison Ford
+M523,75000000,306124059,Independence Day¬†,154,Roland Emmerich,Action|Adventure|Sci-Fi,USA,PG-13,1996,CS622,Will Smith
+M206,140000000,305388685,Pirates of the Caribbean: The Curse of the Black Pearl¬†,143,Gore Verbinski,Action|Adventure|Fantasy,USA,PG-13,2003,CS305,Johnny Depp
+M031,200000000,304360277,Skyfall¬†,143,Sam Mendes,Action|Adventure|Thriller,UK,PG-13,2012,CS130,Albert Finney
+M3494,200000000,304360277,Skyfall¬†,143,Sam Mendes,Action|Adventure|Thriller,UK,PG-13,2012,CS3593,Albert Finney
+M100,180000000,303001229,The Hobbit: An Unexpected Journey¬†,182,Peter Jackson,Adventure|Fantasy,USA,PG-13,2012,CS199,Aidan Turner
+M010,250000000,301956980,Harry Potter and the Half-Blood Prince¬†,153,David Yates,Adventure|Family|Fantasy|Mystery,UK,PG,2009,CS109,Alan Rickman
+M632,68000000,300523113,The Twilight Saga: Eclipse¬†,124,David Slade,Adventure|Drama|Fantasy|Romance,USA,PG-13,2010,CS731,Robert Pattinson
+M927,50000000,296623634,The Twilight Saga: New Moon¬†,130,Chris Weitz,Adventure|Drama|Fantasy|Romance,USA,PG-13,2009,CS1026,Robert Pattinson
+M1182,40000000,293501675,The Sixth Sense¬†,107,M. Night Shyamalan,Drama|Mystery|Thriller,USA,PG-13,1999,CS1281,Bruce Willis
+M068,175000000,292979556,Up¬†,96,Pete Docter,Adventure|Animation|Comedy|Family,USA,PG,2009,CS167,John Ratzenberger
+M098,160000000,292568851,Inception¬†,148,Christopher Nolan,Action|Adventure|Sci-Fi|Thriller,USA,PG-13,2010,CS197,Leonardo DiCaprio
+M188,120000000,292298923,The Twilight Saga: Breaking Dawn - Part 2¬†,115,Bill Condon,Adventure|Drama|Fantasy|Romance,USA,PG-13,2012,CS287,Robert Pattinson
+M175,120000000,292298923,The Twilight Saga: Breaking Dawn - Part 2¬†,115,Bill Condon,Adventure|Drama|Fantasy|Romance,USA,PG-13,2012,CS274,Robert Pattinson
+M115,150000000,292000866,Harry Potter and the Order of the Phoenix¬†,138,David Yates,Adventure|Family|Fantasy|Mystery,UK,PG-13,2007,CS214,Robert Pattinson
+M065,180000000,291709845,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe¬†",150,Andrew Adamson,Adventure|Family|Fantasy,USA,PG,2005,CS164,Jim Broadbent
+M016,225000000,291021565,Man of Steel¬†,143,Zack Snyder,Action|Adventure|Fantasy|Sci-Fi,USA,PG-13,2013,CS115,Henry Cavill
+M2052,18000000,290158751,Star Wars: Episode V - The Empire Strikes Back¬†,127,Irvin Kershner,Action|Adventure|Fantasy|Sci-Fi,USA,PG,1980,CS2151,Harrison Ford
+M116,150000000,289994397,Harry Potter and the Goblet of Fire¬†,157,Mike Newell,Adventure|Family|Fantasy|Mystery,UK,PG-13,2005,CS215,Robert Pattinson
+M239,115000000,289907418,"Monsters, Inc.¬†",92,Pete Docter,Adventure|Animation|Comedy|Family|Fantasy,USA,G,2001,CS338,Steve Buscemi
+M2602,18000000,285761243,Home Alone¬†,103,Chris Columbus,Comedy|Family,USA,PG,1990,CS2701,Macaulay Culkin
+M104,160000000,281666058,The Hunger Games: Mockingjay - Part 2¬†,137,Francis Lawrence,Adventure|Sci-Fi,USA,PG-13,2015,CS203,Jennifer Lawrence
+M127,150000000,281492479,The Matrix Reloaded¬†,138,Lana Wachowski,Action|Sci-Fi,USA,R,2003,CS226,Steve Bastoni
+M711,80000000,279167575,Meet the Fockers¬†,106,Jay Roach,Comedy|Romance,USA,PG-13,2004,CS810,Robert De Niro
+M1398,35000000,277313371,The Hangover¬†,108,Todd Phillips,Comedy,USA,R,2009,CS1497,Bradley Cooper
+M247,100000000,274084951,Gravity¬†,91,Alfonso Cuar√≥n,Adventure|Drama|Sci-Fi|Thriller,UK,PG-13,2013,CS346,Phaldut Sharma
+M036,200000000,268488329,Monsters University¬†,104,Dan Scanlon,Adventure|Animation|Comedy|Family|Fantasy,USA,G,2013,CS135,Steve Buscemi
+M928,60000000,267652016,Shrek¬†,90,Andrew Adamson,Adventure|Animation|Comedy|Family|Fantasy,USA,PG,2001,CS1027,Kathleen Freeman
+M022,230000000,262030663,The Amazing Spider-Man¬†,153,Marc Webb,Action|Adventure|Fantasy,USA,PG-13,2012,CS121,Emma Stone
+M286,100000000,261970615,Harry Potter and the Chamber of Secrets¬†,174,Chris Columbus,Adventure|Family|Fantasy|Mystery,UK,PG,2002,CS385,Daniel Radcliffe
+M350,92000000,261437578,The Incredibles¬†,115,Brad Bird,Action|Adventure|Animation|Family,USA,PG,2004,CS449,Holly Hunter
+M219,123000000,260031035,How the Grinch Stole Christmas¬†,110,Ron Howard,Comedy|Family|Fantasy,USA,PG,2000,CS318,Clint Howard
+M2918,8000000,260000000,Jaws¬†,130,Steven Spielberg,Adventure|Drama|Thriller,USA,PG,1975,CS3017,Roy Scheider
+M087,170000000,259746958,Captain America: The Winter Soldier¬†,136,Anthony Russo,Action|Adventure|Sci-Fi,USA,PG-13,2014,CS186,Scarlett Johansson
+M024,225000000,258355354,The Hobbit: The Desolation of Smaug¬†,186,Peter Jackson,Adventure|Fantasy,USA,PG-13,2013,CS123,Aidan Turner
+M768,60000000,257756197,The Lego Movie¬†,100,Phil Lord,Action|Adventure|Animation|Comedy|Family|Fantasy,Australia,PG,2014,CS867,Morgan Freeman
+M161,150000000,257704099,Star Trek¬†,127,J.J. Abrams,Action|Adventure|Sci-Fi,USA,PG-13,2009,CS260,Chris Hemsworth
+M118,150000000,256386216,I Am Legend¬†,104,Francis Lawrence,Drama|Horror|Sci-Fi,USA,PG-13,2007,CS217,Will Smith
+M1404,29000000,255950375,The Blind Side¬†,129,John Lee Hancock,Biography|Drama|Sport,USA,PG-13,2009,CS1503,Catherine Dyer
+M021,250000000,255108370,The Hobbit: The Battle of the Five Armies¬†,164,Peter Jackson,Adventure|Fantasy,New Zealand,PG-13,2014,CS120,Aidan Turner
+M441,80000000,254455986,The Hangover Part II¬†,102,Todd Phillips,Comedy,USA,R,2011,CS540,Bradley Cooper
+M634,69000000,251501645,Despicable Me¬†,87,Pierre Coffin,Animation|Comedy|Family,USA,PG,2010,CS733,Steve Carell
+M1401,35000000,251188924,Batman¬†,126,Tim Burton,Action|Adventure,USA,PG-13,1989,CS1500,Michael Gough
+M251,110000000,250863268,Night at the Museum¬†,108,Shawn Levy,Action|Adventure|Comedy|Family|Fantasy,USA,PG,2006,CS350,Robin Williams
+M353,90000000,250147615,Men in Black¬†,98,Barry Sonnenfeld,Adventure|Comedy|Family|Mystery|Sci-Fi,USA,PG-13,1997,CS452,Will Smith
