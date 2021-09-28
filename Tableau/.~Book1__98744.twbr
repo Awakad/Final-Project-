@@ -1,0 +1,723 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20204.21.0818.1952                               -->
+<workbook source-build='2020.4.8 (20204.21.0818.1952)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='top_20_highest_growth' inline='true' name='federated.1idni0o1mnhr5f187bneq01ybuke' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='top_20_highest_growth' name='textscan.1f3pm161gac7qf16csa511srw79i'>
+            <connection class='textscan' directory='/Users/rojinshahba/Desktop/Data/Final Project/Final-Project-Sirt/Resources' filename='top_20_highest_growth.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1f3pm161gac7qf16csa511srw79i' name='top_100_highest_growth.csv' table='[top_100_highest_growth#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='movie_id' ordinal='0' />
+            <column datatype='integer' name='budget' ordinal='1' />
+            <column datatype='integer' name='gross' ordinal='2' />
+            <column datatype='string' name='movie_title' ordinal='3' />
+            <column datatype='integer' name='duration' ordinal='4' />
+            <column datatype='string' name='director_name' ordinal='5' />
+            <column datatype='string' name='genres' ordinal='6' />
+            <column datatype='string' name='country' ordinal='7' />
+            <column datatype='string' name='content_rating' ordinal='8' />
+            <column datatype='integer' name='title_year' ordinal='9' />
+            <column datatype='string' name='cast_set_num' ordinal='10' />
+            <column datatype='string' name='actor_1_name' ordinal='11' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1f3pm161gac7qf16csa511srw79i' name='top_100_highest_growth.csv' table='[top_100_highest_growth#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='movie_id' ordinal='0' />
+            <column datatype='integer' name='budget' ordinal='1' />
+            <column datatype='integer' name='gross' ordinal='2' />
+            <column datatype='string' name='movie_title' ordinal='3' />
+            <column datatype='integer' name='duration' ordinal='4' />
+            <column datatype='string' name='director_name' ordinal='5' />
+            <column datatype='string' name='genres' ordinal='6' />
+            <column datatype='string' name='country' ordinal='7' />
+            <column datatype='string' name='content_rating' ordinal='8' />
+            <column datatype='integer' name='title_year' ordinal='9' />
+            <column datatype='string' name='cast_set_num' ordinal='10' />
+            <column datatype='string' name='actor_1_name' ordinal='11' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>movie_id</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[movie_id]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>movie_id</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>budget</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[budget]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>budget</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gross</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gross]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>gross</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>movie_title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[movie_title]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>movie_title</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>duration</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[duration]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>duration</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>director_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[director_name]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>director_name</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genres</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[genres]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>genres</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>content_rating</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[content_rating]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>content_rating</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>title_year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[title_year]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>title_year</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>cast_set_num</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[cast_set_num]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>cast_set_num</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>actor_1_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[actor_1_name]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>actor_1_name</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='top_100_highest_growth.csv' datatype='table' name='[__tableau_internal_object_id__].[top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF]' role='measure' type='quantitative' />
+      <column caption='Actor 1 Facebook Likes' datatype='integer' name='[actor_1_facebook_likes]' role='measure' type='quantitative' />
+      <column caption='Actor 1 Name' datatype='string' name='[actor_1_name]' role='dimension' type='nominal' />
+      <column caption='Budget' datatype='integer' name='[budget]' role='measure' type='quantitative' />
+      <column caption='Cast Set Num' datatype='string' name='[cast_set_num]' role='dimension' type='nominal' />
+      <column caption='Content Rating' datatype='string' name='[content_rating]' role='dimension' type='nominal' />
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Director Name' datatype='string' name='[director_name]' role='dimension' type='nominal' />
+      <column caption='Duration' datatype='integer' name='[duration]' role='measure' type='quantitative' />
+      <column caption='Genres' datatype='string' name='[genres]' role='dimension' type='nominal' />
+      <column caption='Gross' datatype='integer' name='[gross]' role='measure' type='quantitative' />
+      <column caption='Movie Id' datatype='string' name='[movie_id]' role='dimension' type='nominal' />
+      <column caption='Movie Title' datatype='string' name='[movie_title]' role='dimension' type='nominal' />
+      <column caption='Title Year' datatype='integer' name='[title_year]' role='dimension' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' _.fcp.SchemaViewerObjectModel.true...common-percentage='1' _.fcp.SchemaViewerObjectModel.true...user-set-layout-v2='true' dim-ordering='alphabetic' measure-ordering='alphabetic' show-aliased-fields='true' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1idni0o1mnhr5f187bneq01ybuke].[sum:budget:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1idni0o1mnhr5f187bneq01ybuke].[sum:gross:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.1idni0o1mnhr5f187bneq01ybuke].[sum:director_facebook_likes:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.1j4xko2116hzi218v320e13nx3sy].[cnt:movie_title:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1idni0o1mnhr5f187bneq01ybuke].[cnt:movie_title:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1idni0o1mnhr5f187bneq01ybuke]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <datasource-dependencies datasource='federated.1j4xko2116hzi218v320e13nx3sy'>
+        <column-instance column='[movie_title]' derivation='Count' name='[cnt:movie_title:qk]' pivot='key' type='quantitative' />
+        <column caption='Gross' datatype='integer' name='[gross]' role='measure' type='quantitative' />
+        <column caption='Movie Title' datatype='string' name='[movie_title]' role='dimension' type='nominal' />
+        <column-instance column='[gross]' derivation='Sum' name='[sum:gross:qk]' pivot='key' type='quantitative' />
+      </datasource-dependencies>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='top_100_highest_growth.csv' id='top_100_highest_growth.csv_0473C2A1A0E3495F9BD86AF3E7A327AF'>
+            <properties context=''>
+              <relation connection='textscan.1f3pm161gac7qf16csa511srw79i' name='top_100_highest_growth.csv' table='[top_100_highest_growth#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='string' name='movie_id' ordinal='0' />
+                  <column datatype='integer' name='budget' ordinal='1' />
+                  <column datatype='integer' name='gross' ordinal='2' />
+                  <column datatype='string' name='movie_title' ordinal='3' />
+                  <column datatype='integer' name='duration' ordinal='4' />
+                  <column datatype='string' name='director_name' ordinal='5' />
+                  <column datatype='string' name='genres' ordinal='6' />
+                  <column datatype='string' name='country' ordinal='7' />
+                  <column datatype='string' name='content_rating' ordinal='8' />
+                  <column datatype='integer' name='title_year' ordinal='9' />
+                  <column datatype='string' name='cast_set_num' ordinal='10' />
+                  <column datatype='string' name='actor_1_name' ordinal='11' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='top_100_highest_growth' inline='true' name='federated.1j4xko2116hzi218v320e13nx3sy' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='top_100_highest_growth' name='textscan.107uf9m1ljun6o1f43r6k0r47b8c'>
+            <connection class='textscan' directory='/Users/rojinshahba/Desktop/Data/Final Project/Final-Project-Sirt/Resources' filename='top_100_highest_growth.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.107uf9m1ljun6o1f43r6k0r47b8c' name='top_100_highest_growth.csv' table='[top_100_highest_growth#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='movie_id' ordinal='0' />
+            <column datatype='integer' name='budget' ordinal='1' />
+            <column datatype='integer' name='gross' ordinal='2' />
+            <column datatype='string' name='movie_title' ordinal='3' />
+            <column datatype='integer' name='duration' ordinal='4' />
+            <column datatype='string' name='director_name' ordinal='5' />
+            <column datatype='string' name='genres' ordinal='6' />
+            <column datatype='string' name='country' ordinal='7' />
+            <column datatype='string' name='content_rating' ordinal='8' />
+            <column datatype='integer' name='title_year' ordinal='9' />
+            <column datatype='string' name='cast_set_num' ordinal='10' />
+            <column datatype='string' name='actor_1_name' ordinal='11' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.107uf9m1ljun6o1f43r6k0r47b8c' name='top_100_highest_growth.csv' table='[top_100_highest_growth#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='movie_id' ordinal='0' />
+            <column datatype='integer' name='budget' ordinal='1' />
+            <column datatype='integer' name='gross' ordinal='2' />
+            <column datatype='string' name='movie_title' ordinal='3' />
+            <column datatype='integer' name='duration' ordinal='4' />
+            <column datatype='string' name='director_name' ordinal='5' />
+            <column datatype='string' name='genres' ordinal='6' />
+            <column datatype='string' name='country' ordinal='7' />
+            <column datatype='string' name='content_rating' ordinal='8' />
+            <column datatype='integer' name='title_year' ordinal='9' />
+            <column datatype='string' name='cast_set_num' ordinal='10' />
+            <column datatype='string' name='actor_1_name' ordinal='11' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>movie_id</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[movie_id]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>movie_id</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>budget</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[budget]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>budget</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gross</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gross]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>gross</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>movie_title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[movie_title]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>movie_title</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>duration</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[duration]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>duration</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>director_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[director_name]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>director_name</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>genres</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[genres]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>genres</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>content_rating</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[content_rating]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>content_rating</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>title_year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[title_year]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>title_year</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>cast_set_num</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[cast_set_num]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>cast_set_num</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>actor_1_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[actor_1_name]</local-name>
+            <parent-name>[top_100_highest_growth.csv]</parent-name>
+            <remote-alias>actor_1_name</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='top_100_highest_growth.csv' datatype='table' name='[__tableau_internal_object_id__].[top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588]' role='measure' type='quantitative' />
+      <column caption='Actor 1 Name' datatype='string' name='[actor_1_name]' role='dimension' type='nominal' />
+      <column caption='Budget' datatype='integer' name='[budget]' role='measure' type='quantitative' />
+      <column caption='Cast Set Num' datatype='string' name='[cast_set_num]' role='dimension' type='nominal' />
+      <column caption='Content Rating' datatype='string' name='[content_rating]' role='dimension' type='nominal' />
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Director Name' datatype='string' name='[director_name]' role='dimension' type='nominal' />
+      <column caption='Duration' datatype='integer' name='[duration]' role='measure' type='quantitative' />
+      <column caption='Genres' datatype='string' name='[genres]' role='dimension' type='nominal' />
+      <column caption='Gross' datatype='integer' name='[gross]' role='measure' type='quantitative' />
+      <column caption='Movie Id' datatype='string' name='[movie_id]' role='dimension' type='nominal' />
+      <column caption='Movie Title' datatype='string' name='[movie_title]' role='dimension' type='nominal' />
+      <column caption='Title Year' datatype='integer' name='[title_year]' role='dimension' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='top_100_highest_growth.csv' id='top_100_highest_growth.csv_C3373279B9024D44BA7D246825852588'>
+            <properties context=''>
+              <relation connection='textscan.107uf9m1ljun6o1f43r6k0r47b8c' name='top_100_highest_growth.csv' table='[top_100_highest_growth#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='string' name='movie_id' ordinal='0' />
+                  <column datatype='integer' name='budget' ordinal='1' />
+                  <column datatype='integer' name='gross' ordinal='2' />
+                  <column datatype='string' name='movie_title' ordinal='3' />
+                  <column datatype='integer' name='duration' ordinal='4' />
+                  <column datatype='string' name='director_name' ordinal='5' />
+                  <column datatype='string' name='genres' ordinal='6' />
+                  <column datatype='string' name='country' ordinal='7' />
+                  <column datatype='string' name='content_rating' ordinal='8' />
+                  <column datatype='integer' name='title_year' ordinal='9' />
+                  <column datatype='string' name='cast_set_num' ordinal='10' />
+                  <column datatype='string' name='actor_1_name' ordinal='11' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='Sheet 1' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Measure Names' />
+        <param name='target' value='Sheet 1' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Top 100 Highest Gross Movies Directors</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='top_20_highest_growth' name='federated.1idni0o1mnhr5f187bneq01ybuke' />
+            <datasource caption='top_100_highest_growth' name='federated.1j4xko2116hzi218v320e13nx3sy' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1idni0o1mnhr5f187bneq01ybuke'>
+            <column caption='Director Name' datatype='string' name='[director_name]' role='dimension' type='nominal' />
+            <column-instance column='[director_name]' derivation='None' name='[none:director_name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1j4xko2116hzi218v320e13nx3sy'>
+            <column-instance column='[movie_title]' derivation='Count' name='[cnt:movie_title:qk]' pivot='key' type='quantitative' />
+            <column caption='Director Name' datatype='string' name='[director_name]' role='dimension' type='nominal' />
+            <column caption='Gross' datatype='integer' name='[gross]' role='measure' type='quantitative' />
+            <column caption='Movie Title' datatype='string' name='[movie_title]' role='dimension' type='nominal' />
+            <column-instance column='[director_name]' derivation='None' name='[none:director_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[gross]' derivation='Sum' name='[sum:gross:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1idni0o1mnhr5f187bneq01ybuke].[none:director_name:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:director_name:nk]' />
+              <groupfilter function='member' level='[none:director_name:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.1idni0o1mnhr5f187bneq01ybuke].[none:director_name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='render-fold-reversed' value='false' />
+            <encoding attr='space' class='0' field='[federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk]' field-type='quantitative' fold='true' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk]' />
+              <color column='[federated.1idni0o1mnhr5f187bneq01ybuke].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.1j4xko2116hzi218v320e13nx3sy].[cnt:movie_title:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <lod column='[federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk]' />
+              <color column='[federated.1idni0o1mnhr5f187bneq01ybuke].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <lod column='[federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk]' />
+              <color column='[federated.1idni0o1mnhr5f187bneq01ybuke].[:Measure Names]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([federated.1j4xko2116hzi218v320e13nx3sy].[cnt:movie_title:qk] + [federated.1j4xko2116hzi218v320e13nx3sy].[sum:gross:qk])</rows>
+        <cols>[federated.1j4xko2116hzi218v320e13nx3sy].[none:director_name:nk]</cols>
+      </table>
+      <simple-id uuid='{FAD4B594-5885-4B41-99FB-3F3EC1DA7E05}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='51'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.1idni0o1mnhr5f187bneq01ybuke].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{15EC6E05-33C0-4F9A-AE67-F8A06D2D7283}' />
+    </window>
+  </windows>
+</workbook>
