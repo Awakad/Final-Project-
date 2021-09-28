@@ -94,6 +94,11 @@ The following libraries were used in the machine learningm model:
 - Python
 - Scikit-learn
 
+Do more experienced directors produce higher gross movies?
+<img src="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top100Gross%20-%20Directors%20movie%20count.png" width="1000" height="600">
+
+
+
 ## Communication Protocols and Roles
 
 Rojin - handled the ERD and database mockup for the dataset. In addition, Rojin helped with the organisation and co-ordination of the group.
