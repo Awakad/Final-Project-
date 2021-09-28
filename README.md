@@ -107,3 +107,22 @@ Rojin - handled the ERD and database mockup for the dataset. In addition, Rojin 
 Callistus - handled data cleaning and machine learning portion, we will run a Random Forest Neural Network model. The dataset will first be preprocessed to be used in our models.
 
 The role of each team member in our group will change every week to ensure everyone can experience different aspects of the project and provide their valuable input. We created a slack channel  dedicated for all project related communications, resources, updates, and Q&A. A weekly touchpoint has been scheduled in addition to the regular class sessions to ensure all team members are confident in the final deliverables and feel supported throughout the project.
+
+## Technologies Utilized
+
+Technologies used are outline below:
+
+Jupyter Notebook
+Pandas
+Visual Studio Code
+Python
+Flask
+Tableau
+PostgreSQL
+Scikit-learn
+PGadmin
+AWS
+Machine learning
+Microsoft Excel
+Anaconda
+
