@@ -112,17 +112,17 @@ The role of each team member in our group will change every week to ensure every
 
 Technologies used are outline below:
 
-Jupyter Notebook
-Pandas
-Visual Studio Code
-Python
-Flask
-Tableau
-PostgreSQL
-Scikit-learn
-PGadmin
-AWS
-Machine learning
-Microsoft Excel
-Anaconda
+- Jupyter Notebook
+- Pandas
+- Visual Studio Code
+- Python
+- Flask
+- Tableau
+- PostgreSQL
+- Scikit-learn
+- PGadmin
+- AWS
+- Machine learning
+- Microsoft Excel
+- Anaconda
 
