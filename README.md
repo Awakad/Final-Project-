@@ -20,6 +20,7 @@ In a world, where movies made an estimated of over $41.7 billion in 2018 , the f
 What we hope to provide insights on:
 > - How much does the director's portfolio play a difference?
 > - Do projects with higher budgets promise higher revenues?
+> - Are certain genres more profitable?
 > - Does the popularity of the cast on social media impact the popularity of the film?
 
 ## Data Source: 
@@ -75,17 +76,26 @@ Lastly, the Amazon RDS was used to link the internal Postgres SQL on the cloud a
 
 ## Dashboard
 
+### Top 20 Highest Gross Movies
+
+| <a href="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20%20Budget%20vs%20Gross.png" target="_blank">**Budget vs Gross**</a> | <a href="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20Directors.png" target="_blank">**Directors**</a> |
+| :---: |:---:|
+| [<img src="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20%20Budget%20vs%20Gross.png" width="700" height="300">](https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20%20Budget%20vs%20Gross.png)    | [<img src="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20Directors.png" width="700" height="300">](https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20Directors.png) 
+
+| <a href="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross-%20Actor:Actress.png" target="_blank">**Actor-Actress**</a> | <a href="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20%20Genres.png" target="_blank">**Genres**</a> |
+| :---: |:---:|
+| [<img src="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross-%20Actor:Actress.png" width="600" height="500">](https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross-%20Actor:Actress.png)     | [<img src="https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20%20Genres.png" width="600" height="350">](https://github.com/Awakad/Final-Project-Sirt/blob/main/images/Top20Gross%20-%20%20Genres.png) 
 
 
 ## Machine Learning Model
 
-The dataset is available in a csv file. We will develop a Random Forest and Deep Neural Network model for predicting movie revenue for 5000 movie dataset.
+The dataset is available in a csv file. A Random Forest and Deep Neural Network model was developed for predicting the film's revenue using the [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 
-We will performed data analysis, feature extraction, cleaning, preprocessing and train the model.
+To train the model we analyzed, cleaned, and extracted the features from the data. Furthermore we analyzed the model's accuracy by plotting the result, and taking into account our errors.
 
-We will analyze the model's accuracy by plotting the result, and take into account our errors.
-
-Libraries to be used includes python and scikit-learn to present the machine learning model.
+The following libraries were used in the machine learningm odel:
+- Python
+- Scikit-learn
 
 ## Communication Protocols and Roles
 
