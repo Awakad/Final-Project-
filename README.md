@@ -1,4 +1,4 @@
-# Film Industry Boxoffice
+# Film Industry Box office
 - Analyzing the key factors in film production that determine box office performance for the final project of the UofT Data Analytics Bootcamp 2021
 ## The Team 
 - Callistus Ikeata
