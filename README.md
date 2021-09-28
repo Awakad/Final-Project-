@@ -1,10 +1,7 @@
 # Film Industry Boxoffice
 - Analyzing the key factors in film production that determine box office performance for the final project of the UofT Data Analytics Bootcamp 2021
 ## The Team 
-
-- Deng T.Deng
 - Callistus Ikeata
-- Carter Richards
 - Rojin Shahba
 
 ## Project Overview
@@ -100,11 +97,8 @@ The following libraries were used in the machine learningm odel:
 ## Communication Protocols and Roles
 
 Rojin - handled the ERD and database mockup for the dataset. In addition, Rojin helped with the organisation and co-ordination of the group.
-
-Deng - handled the project repository and maintained it for the whole week. 
+ 
 
 Callistus - handled data cleaning and machine learning portion, we will run a Random Forest Neural Network model. The dataset will first be preprocessed to be used in our models.
-
-Carter - Contributed in finding a situatable project topic.
 
 The role of each team member in our group will change every week to ensure everyone can experience different aspects of the project and provide their valuable input. We created a slack channel  dedicated for all project related communications, resources, updates, and Q&A. A weekly touchpoint has been scheduled in addition to the regular class sessions to ensure all team members are confident in the final deliverables and feel supported throughout the project.
